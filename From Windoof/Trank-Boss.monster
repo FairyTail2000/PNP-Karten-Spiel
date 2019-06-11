@@ -1,0 +1,33 @@
+{
+Name:"Trank-Boss"
+}
+{
+Rang:"4US7"
+}
+{
+Typen:"Chemie, Magie"
+}
+{
+Größe:"1.8"
+}
+{
+Gewicht:"40"
+}
+{
+HP:"50"
+}
+{
+Schadensverminderung:"4W8"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Der Trank-Boss ist in der Lage beliebige Tränke zu brauen. Auf ihn haben Tränke dafür leider keine Wirkung."
+}
+{
+Attacken:"Brandsekret (- HP), Enzymschleuder (5W8 HP), Heilung (- HP), Manabombe (3W4 HP), Säure (2W4 HP), Verstrahlen (1W20 HP)"
+}
+{
+Nummer:"197"
+}

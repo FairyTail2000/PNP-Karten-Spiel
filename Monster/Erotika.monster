@@ -1,0 +1,36 @@
+{
+Name:"Erotika"
+}
+{
+Rang:"0US3"
+}
+{
+Rang_zahl:"3"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"0.4"
+}
+{
+Gewicht:"6"
+}
+{
+HP:"8"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Weideflächen, kleinere Dörfer"
+}
+{
+Beschreibung:"Es liebt alles, was es trifft und will auch alles einfach nur knuddeln. Sollte man das jedoch zulassen, verliebt man sich in dieses Monster."
+}
+{
+Attacken:"Liebesfluch (- HP), Rammen (2W4 HP), Spucken (1W4 HP)"
+}
+{
+Nummer:"49"
+}

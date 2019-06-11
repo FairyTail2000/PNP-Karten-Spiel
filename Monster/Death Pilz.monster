@@ -1,0 +1,36 @@
+{
+Name:"Death Pilz"
+}
+{
+Rang:"0US7"
+}
+{
+Rang_zahl:"7"
+}
+{
+Typen:"Boden, Gift"
+}
+{
+Größe:"0.35"
+}
+{
+Gewicht:"2"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Nadelwälder"
+}
+{
+Beschreibung:"Sie sind giftige Pilze, die sich fortbewegen können. Durch ihr Aussehen verschrecken sie andere in der Regel."
+}
+{
+Attacken:"Kopfnuss (2W6 HP), Sekretion (2W4 HP), Spucken (1W4 HP), Tunnel (- HP)"
+}
+{
+Nummer:"33"
+}

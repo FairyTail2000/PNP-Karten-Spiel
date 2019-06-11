@@ -1,0 +1,9 @@
+{
+double_damage:"Elektro,Finsternis"
+}
+{
+half_damage:"Magie,Unsichtbar"
+}
+{
+no_damage:"Geist"
+}

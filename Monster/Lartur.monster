@@ -1,0 +1,36 @@
+{
+Name:"Lartur"
+}
+{
+Rang:"4US3"
+}
+{
+Rang_zahl:"43"
+}
+{
+Typen:"Feuer, Geist, Schwebe"
+}
+{
+Größe:"0.3"
+}
+{
+Gewicht:"3"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"2W8"
+}
+{
+Habitat:"Wüsten, Villen"
+}
+{
+Beschreibung:"Diese schwebende Feuerschale setzt vieles in Brand. Umso besser, wenn man einen Wassereimer bereitstehen hat."
+}
+{
+Attacken:"Brandsekret (- HP), Entzünden (2W6 HP), Feuerstrahl (2W10 HP), Flammenstoß (2W8 HP)"
+}
+{
+Nummer:"119"
+}

@@ -1,0 +1,36 @@
+{
+Name:"Zircolorondur"
+}
+{
+Rang:"6US6"
+}
+{
+Rang_zahl:"66"
+}
+{
+Typen:"Magie, Metall, Schwebe"
+}
+{
+Größe:"0.6"
+}
+{
+Gewicht:"15"
+}
+{
+HP:"70"
+}
+{
+Schadensverminderung:"4W8"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Mit ihrer Magie können sie Angriffe ihrer Gegner reflektieren und verstärken. Leute werden das Geheimnis der Monster wohl nie verstehen."
+}
+{
+Attacken:"Erste Hilfe (- HP), Geteiltes Leid (- HP), Rammen (2W4 HP), Retour (- HP), Verhärten (- HP)"
+}
+{
+Nummer:"228"
+}

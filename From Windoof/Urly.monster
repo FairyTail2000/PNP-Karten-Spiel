@@ -1,0 +1,33 @@
+{
+Name:"Urly"
+}
+{
+Rang:"0US4"
+}
+{
+Typen:"Finsternis, Geist, Schwebe"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"0.03"
+}
+{
+HP:"4"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"In hellen Wäldern, Parks, Gärten"
+}
+{
+Beschreibung:"Es liebt Spaß und bewegt sich deshalb immer ganz euphorisch. Das ist aber wohl eher ein Fluch, denn andere Gefühle als Freude kann Urly nicht empfinden."
+}
+{
+Attacken:"Freundschaft (- HP), Kameradschaft (- HP), Todeshauch (1W4+8 HP)"
+}
+{
+Nummer:"205"
+}

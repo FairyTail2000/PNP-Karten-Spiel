@@ -1,0 +1,36 @@
+{
+Name:"Sadur"
+}
+{
+Rang:"US2"
+}
+{
+Rang_zahl:"12"
+}
+{
+Typen:"Normal, Schwebe"
+}
+{
+Größe:"0.15"
+}
+{
+Gewicht:"0.9"
+}
+{
+HP:"8"
+}
+{
+Schadensverminderung:"1W6"
+}
+{
+Habitat:"Höhlen, felsige Wälder"
+}
+{
+Beschreibung:"Sie besitzen einen sehr beweglichen Kiefer und zwei leuchtende Fühler, mit denen sie gern Beute anlocken oder mit Beute spielen, bevor sie diese fressen."
+}
+{
+Attacken:"Biss (3W4 HP), Entfliehen (- HP), Kopfnuss (2W6 HP), Schnapper (3W6 HP)"
+}
+{
+Nummer:"156"
+}

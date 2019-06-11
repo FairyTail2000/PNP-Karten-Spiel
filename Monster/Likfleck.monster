@@ -1,0 +1,36 @@
+{
+Name:"Likfleck"
+}
+{
+Rang:"9US4"
+}
+{
+Rang_zahl:"94"
+}
+{
+Typen:"Feuer, Geist, Schwebe"
+}
+{
+Größe:"0.4"
+}
+{
+Gewicht:"20"
+}
+{
+HP:"60"
+}
+{
+Schadensverminderung:"1W20+1W12"
+}
+{
+Habitat:"Verlassene Gebäude, Villen, Friedhöfe"
+}
+{
+Beschreibung:"Dieses Monster ist brandgefährlich. Es kann mit seiner Magie auf Zielen eine Art magisches Tattoo erschaffen, das es bei Bedarf entzünden kann."
+}
+{
+Attacken:"Brandmarke (4W10 HP), Feuerstrahl (2W10 HP), Feuerwand (3W10 HP), Manabombe (3W4 HP)"
+}
+{
+Nummer:"120"
+}

@@ -1,0 +1,33 @@
+{
+Name:"Spiky-Boss"
+}
+{
+Rang:"3US8"
+}
+{
+Typen:"Normal, Schwebe"
+}
+{
+Größe:"2"
+}
+{
+Gewicht:"120"
+}
+{
+HP:"40"
+}
+{
+Schadensverminderung:"2W10"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Sie besitzen zwei große Mäuler. Sie interessiert nicht nur Glas, sondern auch lebende Beute, also nimm dich in Acht!"
+}
+{
+Attacken:"Biss (3W4 HP), Traumatischer Schlag (2W6 HP), Verdauen (4W10 HP)"
+}
+{
+Nummer:"185"
+}

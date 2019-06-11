@@ -1,0 +1,36 @@
+{
+Name:"Groll"
+}
+{
+Rang:"US4"
+}
+{
+Rang_zahl:"14"
+}
+{
+Typen:"Boden"
+}
+{
+Größe:"0.3"
+}
+{
+Gewicht:"6"
+}
+{
+HP:"12"
+}
+{
+Schadensverminderung:"2W4"
+}
+{
+Habitat:"Gebirge"
+}
+{
+Beschreibung:"Es hegt keinen Groll gegen andere. Es mag es nur nicht, wenn alles so laut ist. Dabei ist es selbst von allen am lautesten. Ohrenschützer sind Minimum."
+}
+{
+Attacken:"Kopfnuss (2W6 HP), Rammen (2W4 HP), Überschall (2W6+1W8 HP)"
+}
+{
+Nummer:"87"
+}

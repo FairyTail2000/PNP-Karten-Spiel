@@ -1,0 +1,36 @@
+{
+Name:"Glatorn"
+}
+{
+Rang:"6US2"
+}
+{
+Rang_zahl:"62"
+}
+{
+Typen:"Eis, Schwebe"
+}
+{
+Größe:"1.1"
+}
+{
+Gewicht:"65"
+}
+{
+HP:"50"
+}
+{
+Schadensverminderung:"3W8"
+}
+{
+Habitat:"Tundra, Taiga, Gebirge"
+}
+{
+Beschreibung:"Mit seinen riesigen Zähnen kann es die den Schockfroster des Lebens verpassen. Bereits auf 100 Metern Distanz sinkt die Außentemperatur merklich."
+}
+{
+Attacken:"Biss (3W4 HP), Durchbohren (4W4 HP), Eiseskälte (1W10 HP), Eissturm (10W4 HP), Windstoß (2W8 HP)"
+}
+{
+Nummer:"79"
+}

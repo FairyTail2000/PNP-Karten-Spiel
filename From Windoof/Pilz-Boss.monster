@@ -1,0 +1,33 @@
+{
+Name:"Pilz-Boss"
+}
+{
+Rang:"4US2"
+}
+{
+Typen:"Boden, Gift, Pflanze"
+}
+{
+Größe:"3.5"
+}
+{
+Gewicht:"120"
+}
+{
+HP:"40"
+}
+{
+Schadensverminderung:"3W8"
+}
+{
+Habitat:"Wälder, Waldränder"
+}
+{
+Beschreibung:"Dieser Verband an Pilzen ist in der Lage alle Pilze sofortig zu hypnotisieren. Kein Pilz wird den Pilz-Boss jemals angreifen. Für die Pilze!"
+}
+{
+Attacken:"Allergischer Schock (4W8 HP), Farbklekse (- HP), Toxischer Schock (3W4 HP), Wachsen (- HP)"
+}
+{
+Nummer:"139"
+}

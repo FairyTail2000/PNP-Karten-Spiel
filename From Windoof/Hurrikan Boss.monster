@@ -1,0 +1,33 @@
+{
+Name:"Hurrikan Boss"
+}
+{
+Rang:"3US3"
+}
+{
+Typen:"Flug, Unsichtbar"
+}
+{
+Größe:"8"
+}
+{
+Gewicht:"0.01"
+}
+{
+HP:"100"
+}
+{
+Schadensverminderung:"2W4"
+}
+{
+Habitat:"Bei Gewittern auf Weideflächen"
+}
+{
+Beschreibung:"Seine Windgeschwindigkeiten sind unglaublich. Zudem ist es physisch nicht angreifbar.Vorsicht bei umherfliegenden Gegenständen!"
+}
+{
+Attacken:"Eissturm (10W4 HP), Stachelregen (6W6 HP), Windstoß (2W8 HP), Überschall (2W6+1W8 HP)"
+}
+{
+Nummer:"94"
+}

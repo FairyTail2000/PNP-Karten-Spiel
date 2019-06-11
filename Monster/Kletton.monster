@@ -1,0 +1,36 @@
+{
+Name:"Kletton"
+}
+{
+Rang:"7US1"
+}
+{
+Rang_zahl:"71"
+}
+{
+Typen:"Normal, Schwebe"
+}
+{
+Größe:"1.5"
+}
+{
+Gewicht:"20"
+}
+{
+HP:"50"
+}
+{
+Schadensverminderung:"2W12"
+}
+{
+Habitat:"Sonnige Wälder, Lichtungen"
+}
+{
+Beschreibung:"Sie sind sehr stachlige Kollegen, die gern mal ein paar Früchte oder auch gleich den ganzen Strauch zerhacken. Ansonsten sammeln sie mit ihrem kleinen Mund gern Nektar aus Blüten."
+}
+{
+Attacken:"Durchbohren (4W4 HP), Nadelgewehr (8W4 HP), Sprint (- HP), Sturzflug (3W4 HP)"
+}
+{
+Nummer:"107"
+}

@@ -1,0 +1,33 @@
+{
+Name:"Hydropron"
+}
+{
+Rang:"4US5"
+}
+{
+Typen:"Boden, Wasser"
+}
+{
+Größe:"0.6"
+}
+{
+Gewicht:"9"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"3W4+1W8"
+}
+{
+Habitat:"Strände, Küsten"
+}
+{
+Beschreibung:"Angeblich sollen sie im Wasser leben. Bisher hat man sie aber mehr an Land, als sonst irgendwo gesehen. Komische kriechende Kreaturen..."
+}
+{
+Attacken:"Treibsand (1W20 HP), Wasserspiel (- HP), Wasserstrahl (3W8 HP)"
+}
+{
+Nummer:"95"
+}

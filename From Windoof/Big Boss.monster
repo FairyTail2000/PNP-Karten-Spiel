@@ -1,0 +1,33 @@
+{
+Name:"Big Boss"
+}
+{
+Rang:"9US2"
+}
+{
+Typen:"Elektro, Laser, Metall"
+}
+{
+Größe:"1.8"
+}
+{
+Gewicht:"115"
+}
+{
+HP:"100"
+}
+{
+Schadensverminderung:"4W8"
+}
+{
+Habitat:"Vorstädte, toxisch und radioaktiv verseuchtes Land"
+}
+{
+Beschreibung:"Der Big-Boss ist eine Kreatur, bei der man vorsichtig sein sollte. In frühen Stadien ist er noch ganz süß. Sobald er aber voll entwickelt ist, wird er zu einer Gefahr. Es ist ein Monster, dass offiziell für Jäger freigegeben ist. Es kam schon oft vor, dass dieses Monster Personen ohne Grund angegriffen hat."
+}
+{
+Attacken:"Entladung (5W6 HP), Laserstrahl (4W8 HP), Traumatischer Schlag (2W6 HP), Volles Arsenal (5W10 HP)"
+}
+{
+Nummer:"12"
+}

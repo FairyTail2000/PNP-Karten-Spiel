@@ -1,0 +1,9 @@
+{
+double_damage:"Flug,Schwebe,Wasser"
+}
+{
+half_damage:"Boden,Feuer,Gestein,Metall"
+}
+{
+no_damage:"Geist"
+}

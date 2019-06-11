@@ -1,0 +1,36 @@
+{
+Name:"Verlockung"
+}
+{
+Rang:"0M-/5US"
+}
+{
+Rang_zahl:"150"
+}
+{
+Typen:"Magie"
+}
+{
+Größe:"0.9"
+}
+{
+Gewicht:"0.01"
+}
+{
+HP:"100"
+}
+{
+Schadensverminderung:"4W12"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Verlockung ist das Erste der 3 V. Es versucht seine Opfer um den Finger zu wickeln, indem es die Opfer glauben lässt, dass sie ihre inneren Wünsche sehen."
+}
+{
+Attacken:"Freundschaft (- HP), Gedankenkontrolle (- HP), Hypnose (- HP), Kameradschaft (- HP), Liebesfluch (- HP)"
+}
+{
+Nummer:"208"
+}

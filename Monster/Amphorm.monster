@@ -1,0 +1,36 @@
+{
+Name:"Amphorm"
+}
+{
+Rang:"0M-/US2"
+}
+{
+Rang_zahl:"112"
+}
+{
+Typen:"Parasit, Wasser"
+}
+{
+Größe:"0.8"
+}
+{
+Gewicht:"18"
+}
+{
+HP:"70"
+}
+{
+Schadensverminderung:"3W6"
+}
+{
+Habitat:"Sumpfige Gegenden. Sonst in anderen Körpern"
+}
+{
+Beschreibung:"Eine Amphorm ist ein amphibisches Monster, dass sich gern in einen Wirt schleicht, um dort parasitär zu leben. Durch Botenstoffe kann es seinen Wirt manipulieren. Wenn es alt genug ist, bricht es aus dem Wirt mit Nachwuchs, welcher sich dann neue Wirte suchen kann."
+}
+{
+Attacken:"Biss (3W4 HP), Enzymschleuder (5W8 HP), Schwanzhieb (3W6 HP)"
+}
+{
+Nummer:"2"
+}

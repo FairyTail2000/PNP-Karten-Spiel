@@ -1,0 +1,36 @@
+{
+Name:"Slotty"
+}
+{
+Rang:"0US5"
+}
+{
+Rang_zahl:"5"
+}
+{
+Typen:"Magie, Metall"
+}
+{
+Größe:"0.7"
+}
+{
+Gewicht:"15"
+}
+{
+HP:"1"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Das Leben ist ein Glücksspiel. So lautet auch sein Motto. Solltest du sein Spiel jemals ausprobieren, lass mich dir eins sagen: Wie wäre es mit einem anderen Spiel?"
+}
+{
+Attacken:"Glücklicher Treffer (- HP), Schieben (2W4 HP), Zufall (3W20 HP)"
+}
+{
+Nummer:"176"
+}

@@ -1,0 +1,9 @@
+{
+double_damage:"Boden,Eis"
+}
+{
+half_damage:"Elektro,Feuer,Wasser"
+}
+{
+no_damage:"Geist"
+}

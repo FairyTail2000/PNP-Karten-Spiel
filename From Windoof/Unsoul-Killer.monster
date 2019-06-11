@@ -1,0 +1,33 @@
+{
+Name:"Unsoul-Killer"
+}
+{
+Rang:"9US8"
+}
+{
+Typen:"Finsternis, Magie, Schwebe"
+}
+{
+Größe:"1.2"
+}
+{
+Gewicht:"0.001"
+}
+{
+HP:"100"
+}
+{
+Schadensverminderung:"3W20"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Sie sind friedlich und greifen nur Kreaturen an, die keine Seele mehr besitzen, aber eigentlich eine haben müssten."
+}
+{
+Attacken:"Finsterer Hauch (2W4 HP), Fluch (- HP), Levitation (2W10 HP), Schlaffluch (- HP), Todesfluch (2W10 HP), Urteil (- HP)"
+}
+{
+Nummer:"204"
+}

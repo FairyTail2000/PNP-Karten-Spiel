@@ -1,0 +1,36 @@
+{
+Name:"Muterto"
+}
+{
+Rang:"4US3"
+}
+{
+Rang_zahl:"43"
+}
+{
+Typen:"Flug, Psycho"
+}
+{
+Größe:"1.8"
+}
+{
+Gewicht:"55"
+}
+{
+HP:"40"
+}
+{
+Schadensverminderung:"3W8"
+}
+{
+Habitat:"Gebirge, im Himmel"
+}
+{
+Beschreibung:"Sie können auf sehr weite Distanzen sehen und blitzschnell fliegen. Sich mit ihnen anzulegen bedeutet, dass man sein Ende nicht mal kommen sehen wird. Muterto kann es im Gegensatz schon."
+}
+{
+Attacken:"Ansehen (- HP), Farbklekse (- HP), Schwanzhieb (3W6 HP), Sturzflug (3W4 HP), Windstoß (2W8 HP)"
+}
+{
+Nummer:"133"
+}

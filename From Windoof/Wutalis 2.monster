@@ -1,0 +1,33 @@
+{
+Name:"Wutalis 2"
+}
+{
+Rang:"6US8"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"2"
+}
+{
+Gewicht:"50"
+}
+{
+HP:"50"
+}
+{
+Schadensverminderung:"3W8"
+}
+{
+Habitat:"Wüsten, Savannen"
+}
+{
+Beschreibung:"Wutalis 2 ist ein sehr aggressives Monster. Je mehr es angegriffen wird, desto wütender, aber schwächer wird es."
+}
+{
+Attacken:"Biss (3W4 HP), Durchbohren (4W4 HP), Pürieren (1W4 HP), Sprint (- HP)"
+}
+{
+Nummer:"218"
+}

@@ -1,0 +1,33 @@
+{
+Name:"Brailboss"
+}
+{
+Rang:"5US8"
+}
+{
+Typen:"Psycho, Schwebe"
+}
+{
+Größe:"0.7"
+}
+{
+Gewicht:"4.5"
+}
+{
+HP:"45"
+}
+{
+Schadensverminderung:"3W6"
+}
+{
+Habitat:"Nadelwälder"
+}
+{
+Beschreibung:"Brailbosse sind hinterhältige Biester, die versuchen heimlich an deine Organe zu kommen. Es ist ihnen dabei egal, wie sie das anstellen."
+}
+{
+Attacken:"Biss (3W4 HP), Gedankenkontrolle (- HP), Hypnose (- HP), Todeshauch (1W4+8 HP)"
+}
+{
+Nummer:"25"
+}

@@ -1,0 +1,33 @@
+{
+Name:"Sly"
+}
+{
+Rang:"US1"
+}
+{
+Typen:"Flug, Magie"
+}
+{
+Größe:"0.4"
+}
+{
+Gewicht:"0.1"
+}
+{
+HP:"8"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Im Himmel, oft in Stadtnähe"
+}
+{
+Beschreibung:"Es kann fliegen und hilft Monstern und Leuten. Warum soll man auch andere verletzen?!"
+}
+{
+Attacken:"Erste Hilfe (- HP), Windstoß (2W8 HP)"
+}
+{
+Nummer:"177"
+}

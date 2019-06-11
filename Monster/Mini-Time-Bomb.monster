@@ -1,0 +1,36 @@
+{
+Name:"Mini-Time-Bomb"
+}
+{
+Rang:"US"
+}
+{
+Rang_zahl:"10"
+}
+{
+Typen:"Chemie, Metall"
+}
+{
+Größe:"0.12"
+}
+{
+Gewicht:"0.4"
+}
+{
+HP:"8"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Weideflächen, Wiesen"
+}
+{
+Beschreibung:"Sie können selbst planen, wann sie explodieren möchten. Aber hey, sie zeigen an, wann sie das tun, also was hindert dich am Weglaufen?!"
+}
+{
+Attacken:"Kleine Explosion (5W10 HP), Knaller (2W4 HP), Kopfnuss (2W6 HP)"
+}
+{
+Nummer:"130"
+}

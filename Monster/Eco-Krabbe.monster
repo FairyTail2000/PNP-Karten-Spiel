@@ -1,0 +1,36 @@
+{
+Name:"Eco-Krabbe"
+}
+{
+Rang:"3US6"
+}
+{
+Rang_zahl:"36"
+}
+{
+Typen:"Gift, Metall, Parasit"
+}
+{
+Größe:"0.6"
+}
+{
+Gewicht:"8"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"2W8"
+}
+{
+Habitat:"Verunreinigte Städte, Fabriken"
+}
+{
+Beschreibung:"Eco-Krabben sind toxische Kreaturen, die in Städten nach Eco und anderem chemischen Unrat suchen. Sie vermehren sich rasch und kleistern gern Innenstädte mit ihren Eiern zu. Gewissermaßen sind sie sie Müllabfuhr für Städte, um sie danach selbst wieder zuzumüllen."
+}
+{
+Attacken:"Biss (3W4 HP), Ecoschleuder (4W6 HP), Sekretion (2W4 HP), Toxischer Schock (3W4 HP)"
+}
+{
+Nummer:"44"
+}

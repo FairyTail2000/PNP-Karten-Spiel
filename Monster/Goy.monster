@@ -1,0 +1,36 @@
+{
+Name:"Goy"
+}
+{
+Rang:"3US6"
+}
+{
+Rang_zahl:"36"
+}
+{
+Typen:"Schwebe, Unsichtbar"
+}
+{
+Größe:"0.7"
+}
+{
+Gewicht:"6"
+}
+{
+HP:"25"
+}
+{
+Schadensverminderung:"2W8"
+}
+{
+Habitat:"Wälder und Wiesen"
+}
+{
+Beschreibung:"Sie sind sehr schnelle und bewegliche Monster, die mit vielen Stacheln angreifen. Hüte dich vor seinen Entwicklungen!"
+}
+{
+Attacken:"Bohrer (3W4 HP), Durchbohren (4W4 HP), Schwanzhieb (3W6 HP), Sprint (- HP)"
+}
+{
+Nummer:"84"
+}

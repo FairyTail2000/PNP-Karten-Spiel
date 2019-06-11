@@ -1,0 +1,36 @@
+{
+Name:"Fourly Fischli"
+}
+{
+Rang:"0US5"
+}
+{
+Rang_zahl:"5"
+}
+{
+Typen:"Wasser"
+}
+{
+Größe:"0.1"
+}
+{
+Gewicht:"0.2"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W8"
+}
+{
+Habitat:"Meere, größere Süßwässer"
+}
+{
+Beschreibung:"Sie sind wie Fischli, besitzen aber vier Münder, damit sie mehr futtern können. Ansonsten sind sie ganz nette Fische. Mehr oder weniger."
+}
+{
+Attacken:"Biss (3W4 HP), Pürieren (1W4 HP)"
+}
+{
+Nummer:"69"
+}

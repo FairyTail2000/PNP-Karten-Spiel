@@ -1,0 +1,36 @@
+{
+Name:"Brail"
+}
+{
+Rang:"3US6"
+}
+{
+Rang_zahl:"36"
+}
+{
+Typen:"Psycho, Schwebe"
+}
+{
+Größe:"0.5"
+}
+{
+Gewicht:"2.5"
+}
+{
+HP:"35"
+}
+{
+Schadensverminderung:"3W6"
+}
+{
+Habitat:"Wälder, Weideflächen"
+}
+{
+Beschreibung:"Brail ist ein sehr trickreiches hirnförmiges Monster, das es liebt andere Kreaturen für seinen Willen arbeiten zu lassen. Es besitzt beeindruckende Psychomagie."
+}
+{
+Attacken:"Hypnose (- HP), Schwanzhieb (3W6 HP), Selbstnutz (- HP), Traumatischer Schlag (2W6 HP)"
+}
+{
+Nummer:"24"
+}

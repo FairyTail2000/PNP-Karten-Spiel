@@ -1,0 +1,36 @@
+{
+Name:"Jillectro"
+}
+{
+Rang:"2US4"
+}
+{
+Rang_zahl:"24"
+}
+{
+Typen:"Elektro, Schwebe"
+}
+{
+Größe:"0.6"
+}
+{
+Gewicht:"12"
+}
+{
+HP:"15"
+}
+{
+Schadensverminderung:"3W4"
+}
+{
+Habitat:"Wälder, Weideflächen"
+}
+{
+Beschreibung:"So unförmig wie es ist, es kann sich präzise bewegen. Das nützt ihm aber trotzdem nicht, wenn man einfach nicht kämpfen kann."
+}
+{
+Attacken:"Aufladen (- HP), Biss (3W4 HP), Zündfunke (1W6 HP)"
+}
+{
+Nummer:"101"
+}

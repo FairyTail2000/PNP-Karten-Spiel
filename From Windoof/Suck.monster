@@ -1,0 +1,33 @@
+{
+Name:"Suck"
+}
+{
+Rang:"0US6"
+}
+{
+Typen:"Flug"
+}
+{
+Größe:"0.15"
+}
+{
+Gewicht:"0.2"
+}
+{
+HP:"4"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Gebirge, im Himmel"
+}
+{
+Beschreibung:"Geschmeidig bewegen sie sich durch die Lüfte und sehen sich die Landschaft an. Stoßen sie auf Vogel, fahren sie ihre Stacheln aus, um diese zu fangen."
+}
+{
+Attacken:"Ansehen (- HP), Kopfnuss (2W6 HP), Rammen (2W4 HP), Windstoß (2W8 HP)"
+}
+{
+Nummer:"193"
+}

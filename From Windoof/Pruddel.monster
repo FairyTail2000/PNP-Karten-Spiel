@@ -1,0 +1,33 @@
+{
+Name:"Pruddel"
+}
+{
+Rang:"0US9"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"3"
+}
+{
+HP:"7"
+}
+{
+Schadensverminderung:"1W6"
+}
+{
+Habitat:"Wiesen, Weideflächen"
+}
+{
+Beschreibung:"Einst wurde ihm sein Herz gebrochen. Knuddelwuddel war seine einzig wahre Liebe.  Bestimmt findet es irgendwann seine neue Liebe und kann sein Herz wieder austauschen."
+}
+{
+Attacken:"Happen (1W4 HP), Schieben (2W4 HP), Selbsthass (- HP)"
+}
+{
+Nummer:"148"
+}

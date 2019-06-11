@@ -1,0 +1,33 @@
+{
+Name:"Hedder-Seegras"
+}
+{
+Rang:"0US1"
+}
+{
+Typen:"Pflanze, Wasser"
+}
+{
+Größe:"1"
+}
+{
+Gewicht:"2"
+}
+{
+HP:"3"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Flache Gebiete im Meer,, seichte Flüsse"
+}
+{
+Beschreibung:"Elegant sich wiegend im warmen Meer, ganz sanft im Wasser mal hin und mal her. Doch freudige Sammler erleiden Verzehr, denn sie wissen, das Seegras füllt Portemonnaies weit mehr."
+}
+{
+Attacken:"Ansehen (- HP), Wachsen (- HP), Wasserspiel (- HP)"
+}
+{
+Nummer:"91"
+}

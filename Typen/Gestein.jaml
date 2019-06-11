@@ -1,0 +1,9 @@
+{
+double_damage:"Boden,Schwebe"
+}
+{
+half_damage:"Pflanze,Psycho"
+}
+{
+no_damage:"Geist"
+}

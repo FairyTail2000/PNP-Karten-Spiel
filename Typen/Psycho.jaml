@@ -1,0 +1,9 @@
+{
+double_damage:"Normal,Psycho"
+}
+{
+half_damage:"Finsternis,Unsichtbar"
+}
+{
+no_damage:"Geist"
+}

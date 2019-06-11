@@ -1,0 +1,36 @@
+{
+Name:"Schlurby"
+}
+{
+Rang:"0US7"
+}
+{
+Rang_zahl:"7"
+}
+{
+Typen:"Flug"
+}
+{
+Größe:"0.15"
+}
+{
+Gewicht:"0.05"
+}
+{
+HP:"5"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Im Himmel"
+}
+{
+Beschreibung:"Sie sind ein sehr flauschiges Souvenir für Touristen auf dem Goren. Da sie sich gern im Wind treiben lassen, eignen sie sich hervorragend als Windspiel oder als Schlüsselanhänger. Wie man sie festmacht, bleibt dir überlassen."
+}
+{
+Attacken:"Ansehen (- HP), Freundschaft (- HP), Sturzflug (3W4 HP)"
+}
+{
+Nummer:"167"
+}

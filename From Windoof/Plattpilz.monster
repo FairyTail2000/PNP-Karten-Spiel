@@ -1,0 +1,33 @@
+{
+Name:"Plattpilz"
+}
+{
+Rang:"0US1"
+}
+{
+Typen:"Boden, Pflanze"
+}
+{
+Größe:"0.02"
+}
+{
+Gewicht:"0.01"
+}
+{
+HP:"3"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Wälder und Waldränder"
+}
+{
+Beschreibung:"Wenn ein Plattpilz vom Wind erfasst wird, treiben sie manchmal mehrere Kilometer in die Ferne. Sie sind vom Aussterben bedroht, da sie so immer wieder ihre Familien verlieren."
+}
+{
+Attacken:"Ansehen (- HP), Schieben (2W4 HP), Wachsen (- HP), Wurzeln (- HP)"
+}
+{
+Nummer:"144"
+}

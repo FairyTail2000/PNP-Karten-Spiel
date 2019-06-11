@@ -1,0 +1,36 @@
+{
+Name:"Deathdemon"
+}
+{
+Rang:"7US2"
+}
+{
+Rang_zahl:"72"
+}
+{
+Typen:"Feuer, Laser, Metall"
+}
+{
+Größe:"1.5"
+}
+{
+Gewicht:"25"
+}
+{
+HP:"50"
+}
+{
+Schadensverminderung:"3W8"
+}
+{
+Habitat:"Verlassene Orte"
+}
+{
+Beschreibung:"Sie sind gefährliche, mit Laser bewaffnete und metallische Monster. Sollte jemand sie als Feind haben, verfolgen sie ihr Ziel so lange, bis sie es vernichtet haben."
+}
+{
+Attacken:"Feuerstrahl (2W10 HP), Gedankenkontrolle (- HP), Hypnose (- HP), Laserstrahl (4W8 HP)"
+}
+{
+Nummer:"34"
+}

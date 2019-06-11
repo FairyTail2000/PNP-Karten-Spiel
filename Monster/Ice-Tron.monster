@@ -1,0 +1,36 @@
+{
+Name:"Ice-Tron"
+}
+{
+Rang:"0US7"
+}
+{
+Rang_zahl:"7"
+}
+{
+Typen:"Eis, Schwebe"
+}
+{
+Größe:"0.4"
+}
+{
+Gewicht:"1.5"
+}
+{
+HP:"12"
+}
+{
+Schadensverminderung:"1W6"
+}
+{
+Habitat:"Tundra, Taiga, Gebirge"
+}
+{
+Beschreibung:"Es besitzt um sich sechs Eiskugeln, die es auf Ziele werfen kann, um diese gegebenenfalls einzufrieren."
+}
+{
+Attacken:"Eiseskälte (1W10 HP), Schleuder (1W4+1W12 HP), Schockfrosten (3W8 HP)"
+}
+{
+Nummer:"97"
+}

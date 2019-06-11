@@ -1,0 +1,33 @@
+{
+Name:"Zellur"
+}
+{
+Rang:"2US7"
+}
+{
+Typen:"Chemie"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"2"
+}
+{
+HP:"15"
+}
+{
+Schadensverminderung:"2W6"
+}
+{
+Habitat:"In radioaktiv verseuchten Gegenden"
+}
+{
+Beschreibung:"Es ist ein Haufen aus Zellen, die unkontrolliert wachsen und sich dann teilen. Wie groß Zellure wohl werden können...?"
+}
+{
+Attacken:"Allergischer Schock (4W8 HP), Verstrahlen (1W20 HP)"
+}
+{
+Nummer:"226"
+}

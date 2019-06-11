@@ -1,0 +1,9 @@
+{
+double_damage:"Finsternis,Flug,Normal,Schwebe"
+}
+{
+half_damage:"Elektro"
+}
+{
+no_damage:"Geist"
+}

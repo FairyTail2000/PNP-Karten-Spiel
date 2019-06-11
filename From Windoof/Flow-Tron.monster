@@ -1,0 +1,33 @@
+{
+Name:"Flow-Tron"
+}
+{
+Rang:"0US1"
+}
+{
+Typen:"Magie, Schwebe"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"0.5"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"3W4"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Sie sind in Kämpfen gefürchtet. Sie greifen zwar nicht direkt an, aber ihre Magie sorgt für Frustration bei Kampfteilnehmern. Gern machen sie ihre Gegner langsamer oder schneller."
+}
+{
+Attacken:"Doubletime (- HP), Halftime (- HP)"
+}
+{
+Nummer:"65"
+}

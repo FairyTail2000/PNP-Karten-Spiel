@@ -1,0 +1,36 @@
+{
+Name:"Trill-Boss"
+}
+{
+Rang:"2US"
+}
+{
+Rang_zahl:"20"
+}
+{
+Typen:"Normal, Schwebe"
+}
+{
+Größe:"1.5"
+}
+{
+Gewicht:"25"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"2W10"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Wenn jemand eine große Klappe hat, dann der Trill-Boss. Sein Mund ist so groß, wie er selbst."
+}
+{
+Attacken:"Biss (3W4 HP), Nadelgewehr (8W4 HP), Traumatischer Schlag (2W6 HP)"
+}
+{
+Nummer:"198"
+}

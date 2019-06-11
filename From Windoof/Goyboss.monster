@@ -1,0 +1,33 @@
+{
+Name:"Goyboss"
+}
+{
+Rang:"4US3"
+}
+{
+Typen:"Normal, Schwebe"
+}
+{
+Größe:"1"
+}
+{
+Gewicht:"65"
+}
+{
+HP:"50"
+}
+{
+Schadensverminderung:"6W6"
+}
+{
+Habitat:"Kalte, felsige Wälder"
+}
+{
+Beschreibung:"Sie sind besonders hart und sind meist eher uninteressiert an Auseinandersetzungen. Sollte man sie dennoch zu sehr stören, können sie einen durch den Fleischwolf jagen."
+}
+{
+Attacken:"Quetschen (4W8 HP), Sprint (- HP), Unsichtbarer Schlag (4W4 HP), Verhärten (- HP)"
+}
+{
+Nummer:"85"
+}

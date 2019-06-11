@@ -1,0 +1,9 @@
+{
+double_damage:"Insekt,Metall,Wasser"
+}
+{
+half_damage:"Boden,Gestein,Pflanze"
+}
+{
+no_damage:"Flug,Geist,Schwebe"
+}

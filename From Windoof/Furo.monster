@@ -1,0 +1,33 @@
+{
+Name:"Furo"
+}
+{
+Rang:"US4"
+}
+{
+Typen:"Boden, Feuer"
+}
+{
+Größe:"0.7"
+}
+{
+Gewicht:"15"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W8"
+}
+{
+Habitat:"Warme Wiesen"
+}
+{
+Beschreibung:"Es kann beißen und auf seiner anderen Seite Feuer machen. Sie ähneln einem Werkzeug. So kämpfen sie deshalb auch."
+}
+{
+Attacken:"Biss (3W4 HP), Entzünden (2W6 HP), Feuerstrahl (2W10 HP)"
+}
+{
+Nummer:"72"
+}

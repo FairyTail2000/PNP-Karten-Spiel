@@ -1,0 +1,33 @@
+{
+Name:"Wormy"
+}
+{
+Rang:"US1"
+}
+{
+Typen:"Boden"
+}
+{
+Größe:"0.8"
+}
+{
+Gewicht:"1"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"2W4"
+}
+{
+Habitat:"In sandigem Erdboden"
+}
+{
+Beschreibung:"Leider muss sich dieser Wurm zu zweit einen Körper teilen. Aus welchem Kopf wohl die Ausscheidungen kommen...?"
+}
+{
+Attacken:"Durchbohren (4W4 HP), Erdwall (- HP), Grube (2W6 HP)"
+}
+{
+Nummer:"214"
+}

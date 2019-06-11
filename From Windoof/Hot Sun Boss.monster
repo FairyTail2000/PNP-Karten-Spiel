@@ -1,0 +1,33 @@
+{
+Name:"Hot Sun Boss"
+}
+{
+Rang:"4US4"
+}
+{
+Typen:"Feuer, Schwebe"
+}
+{
+Größe:"4"
+}
+{
+Gewicht:"350"
+}
+{
+HP:"70"
+}
+{
+Schadensverminderung:"3W10"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Dieses Monster ist so heiß, dass es im inneren Wasserstoff fusioniert. Dadurch besitzt es so viel Energie, dass es brennt."
+}
+{
+Attacken:"Brandsekret (- HP), Feuerstrahl (2W10 HP), Feuerwand (3W10 HP), Kernfusion (4W12 HP)"
+}
+{
+Nummer:"93"
+}

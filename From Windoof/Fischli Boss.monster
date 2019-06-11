@@ -1,0 +1,33 @@
+{
+Name:"Fischli Boss"
+}
+{
+Rang:"3US2"
+}
+{
+Typen:"Wasser"
+}
+{
+Größe:"2.2"
+}
+{
+Gewicht:"85"
+}
+{
+HP:"45"
+}
+{
+Schadensverminderung:"3W6"
+}
+{
+Habitat:"Tiefe Ozeane"
+}
+{
+Beschreibung:"Sie sind sehr große Raubfische, die eigentlich in Ruhe gelassen werden wollen. Mit ihren Stachelkugeln auf dem Rücken können sie bei Gelegenheit schnell Beute erfassen."
+}
+{
+Attacken:"Biss (3W4 HP), Schnapper (3W6 HP), Seitenhieb (4W8 HP), Wasserstrahl (3W8 HP)"
+}
+{
+Nummer:"60"
+}

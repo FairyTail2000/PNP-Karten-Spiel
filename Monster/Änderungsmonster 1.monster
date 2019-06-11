@@ -1,0 +1,36 @@
+{
+Name:"Änderungsmonster 1"
+}
+{
+Rang:"0O-/4US"
+}
+{
+Rang_zahl:"240"
+}
+{
+Typen:"Magie, Normal"
+}
+{
+Größe:"0.5"
+}
+{
+Gewicht:"3"
+}
+{
+HP:"150"
+}
+{
+Schadensverminderung:"4W8"
+}
+{
+Habitat:"Wälder, Wiesen"
+}
+{
+Beschreibung:"Das Änderungsmonster 1 ist ein sehr gefährliches Monster. Es ist normalerweise klein, ruhig und sammelt ein paar Käfer oder Beeren. Wenn es stark bedroht wird, kann es sein Gestalt in eine 4 Meter große Kreatur ändern und malmt auf seinem Weg alles nieder, was ihm in die Quere kommt. Es wiegt dann circa 180kg."
+}
+{
+Attacken:"Biss (3W4 HP), Tritt (4W6 HP), Verdauen (4W10 HP), Zermalmen (6W12 HP)"
+}
+{
+Nummer:"3"
+}

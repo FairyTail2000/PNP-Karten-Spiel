@@ -1,0 +1,36 @@
+{
+Name:"Bara"
+}
+{
+Rang:"0US8"
+}
+{
+Rang_zahl:"8"
+}
+{
+Typen:"Finsternis, Gift, Schwebe"
+}
+{
+Größe:"0.6"
+}
+{
+Gewicht:"0.1"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Nadelwälder, subpolare Wälder"
+}
+{
+Beschreibung:"Bara ist ein harmloses, schwebendes Monster. Es besteht zum größten Teil aus Wasserdampf, der wie eine hohle Wolke geformt ist. Dieser Dampf ist jedoch toxisch."
+}
+{
+Attacken:"Ersticken (2W6 HP), Giftwolke (2W4 HP), Toxischer Schock (3W4 HP)"
+}
+{
+Nummer:"5"
+}

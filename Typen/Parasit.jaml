@@ -1,0 +1,9 @@
+{
+double_damage:"Normal,Pflanze"
+}
+{
+half_damage:"Elektro,Gift"
+}
+{
+no_damage:"Finsternis,Gestein,Metall,Boden"
+}

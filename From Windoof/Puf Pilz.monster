@@ -1,0 +1,33 @@
+{
+Name:"Puf Pilz"
+}
+{
+Rang:"0US4"
+}
+{
+Typen:"Boden, Gift, Pflanze"
+}
+{
+Größe:"0.06"
+}
+{
+Gewicht:"0.02"
+}
+{
+HP:"5"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Wälder"
+}
+{
+Beschreibung:"Sie sind friedlich, aber etwas stachelig und riechen nicht gerade angenehm. Sie verströmen oft Gase, um ihre Beute zu lähmen."
+}
+{
+Attacken:"Giftwolke (2W4 HP), Happen (1W4 HP), Pikser (1W2 HP), Wurzeln (- HP)"
+}
+{
+Nummer:"149"
+}

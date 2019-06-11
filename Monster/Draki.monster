@@ -1,0 +1,36 @@
+{
+Name:"Draki"
+}
+{
+Rang:"2US5"
+}
+{
+Rang_zahl:"25"
+}
+{
+Typen:"Normal, Schwebe"
+}
+{
+Größe:"1"
+}
+{
+Gewicht:"35"
+}
+{
+HP:"50"
+}
+{
+Schadensverminderung:"2W8"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Draki ist ein wenig erforschtes Monster. Es kneift gern und kann sehr stark pusten. Sauerstoff kann dieses Monster mit einem Zug verbrauchen. Also sperr es lieber nicht in deinem Haus ein."
+}
+{
+Attacken:"Ersticken (2W6 HP), Quetschen (4W8 HP), Windstoß (2W8 HP)"
+}
+{
+Nummer:"41"
+}

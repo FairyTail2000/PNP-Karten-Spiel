@@ -1,0 +1,33 @@
+{
+Name:"Böser Schatten"
+}
+{
+Rang:"US8"
+}
+{
+Typen:"Finsternis, Geist, Schwebe"
+}
+{
+Größe:"0.6"
+}
+{
+Gewicht:"0.05"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"2W4"
+}
+{
+Habitat:"Dunkle Wälder, Weideflächen bei Nacht"
+}
+{
+Beschreibung:"Der Böse Schatten ist in Wahrheit gar nicht so böse, wie sein Name vermuten lässt. Sie lieben es Leute ab und an zu erschrecken, spielen aber in der Regel nur mit ihnen."
+}
+{
+Attacken:"Gänsehaut (2W6 HP), Panikattacke (2W8 HP), Schlaffluch (- HP)"
+}
+{
+Nummer:"23"
+}

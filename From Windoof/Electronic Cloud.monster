@@ -1,0 +1,33 @@
+{
+Name:"Electronic Cloud"
+}
+{
+Rang:"2US2"
+}
+{
+Typen:"Elektro, Schwebe, Wasser"
+}
+{
+Größe:"2"
+}
+{
+Gewicht:"1"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"2W8"
+}
+{
+Habitat:"Bei Gewitter überall"
+}
+{
+Beschreibung:"Diese aus Wassertröpfchen bestehende Wolke lebt. Und sie wird kommen, um ihr Ziel zu braten. Man sollte ein Auto besitzen, wenn man sie (be)suchen will."
+}
+{
+Attacken:"Aufladen (- HP), Wasserspiel (- HP), Zündfunke (1W6 HP)"
+}
+{
+Nummer:"47"
+}

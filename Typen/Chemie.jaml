@@ -1,0 +1,9 @@
+{
+double_damage:"Wasser,Pflanze,Parasit,Normal"
+}
+{
+half_damage:"Chemie,Eis,Gift,Unsichtbar"
+}
+{
+no_damage:"Boden,Geist,Gestein"
+}

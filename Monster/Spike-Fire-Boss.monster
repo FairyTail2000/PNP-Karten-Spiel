@@ -1,0 +1,36 @@
+{
+Name:"Spike-Fire-Boss"
+}
+{
+Rang:"3US8"
+}
+{
+Rang_zahl:"38"
+}
+{
+Typen:"Feuer, Metall"
+}
+{
+Größe:"1"
+}
+{
+Gewicht:"120"
+}
+{
+HP:"40"
+}
+{
+Schadensverminderung:"2W10"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Er ist glühend heiß, kann mit Hochgeschwindigkeit rollen und besitzt Stacheln. Mit der Kombination kann er glatt Wunden ausbrennen. Macht er aber nicht. Dafür lässt er sie anbrennen."
+}
+{
+Attacken:"Durchbohren (4W4 HP), Feuerstrahl (2W10 HP), Feuerwand (3W10 HP), Sprint (- HP)"
+}
+{
+Nummer:"182"
+}

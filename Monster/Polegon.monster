@@ -1,0 +1,36 @@
+{
+Name:"Polegon"
+}
+{
+Rang:"US8"
+}
+{
+Rang_zahl:"18"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"0.7"
+}
+{
+Gewicht:"25"
+}
+{
+HP:"15"
+}
+{
+Schadensverminderung:"1W4+1W6"
+}
+{
+Habitat:"Höhlen, ruhige Waldgebiete"
+}
+{
+Beschreibung:"Sie sind immer auf der Suche nach kleinen Tieren. Finden sie welche, so saugen sie diese einfach auf."
+}
+{
+Attacken:"Biss (3W4 HP), Schwanzhieb (3W6 HP), Windstoß (2W8 HP)"
+}
+{
+Nummer:"147"
+}

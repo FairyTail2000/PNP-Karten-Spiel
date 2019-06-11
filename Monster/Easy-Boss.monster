@@ -1,0 +1,36 @@
+{
+Name:"Easy-Boss"
+}
+{
+Rang:"3US3"
+}
+{
+Rang_zahl:"33"
+}
+{
+Typen:"Elektro, Gift"
+}
+{
+Größe:"1.6"
+}
+{
+Gewicht:"45"
+}
+{
+HP:"40"
+}
+{
+Schadensverminderung:"3W6"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Der Easy-Boss ist wohl einer der harmlosesten Bosse unter den Monstern. Dennoch wird er wegen seines Aussehens gefürchtet."
+}
+{
+Attacken:"Elektrostoß (3W8 HP), Entladung (5W6 HP), Spannungsblitz (4W8 HP), Zündfunke (1W6 HP)"
+}
+{
+Nummer:"43"
+}

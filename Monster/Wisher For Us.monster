@@ -1,0 +1,36 @@
+{
+Name:"Wisher For Us"
+}
+{
+Rang:"0US1"
+}
+{
+Rang_zahl:"1"
+}
+{
+Typen:"Magie, Schwebe"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"0.1"
+}
+{
+HP:"3"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Angeblich können sie Wünsche erfüllen. Sie sind aber so selten, dass es keine festen Beweise gibt."
+}
+{
+Attacken:"Glücklicher Treffer (- HP), Zufall (3W20 HP)"
+}
+{
+Nummer:"211"
+}

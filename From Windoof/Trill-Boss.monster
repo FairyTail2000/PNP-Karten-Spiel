@@ -1,0 +1,33 @@
+{
+Name:"Trill-Boss"
+}
+{
+Rang:"2US"
+}
+{
+Typen:"Normal, Schwebe"
+}
+{
+Grˆﬂe:"1.5"
+}
+{
+Gewicht:"25"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"2W10"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Wenn jemand eine groﬂe Klappe hat, dann der Trill-Boss. Sein Mund ist so groﬂ, wie er selbst."
+}
+{
+Attacken:"Biss (3W4 HP), Nadelgewehr (8W4 HP), Traumatischer Schlag (2W6 HP)"
+}
+{
+Nummer:"198"
+}

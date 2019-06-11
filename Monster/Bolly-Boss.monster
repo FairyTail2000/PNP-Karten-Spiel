@@ -1,0 +1,36 @@
+{
+Name:"Bolly-Boss"
+}
+{
+Rang:"0M-/3US2"
+}
+{
+Rang_zahl:"132"
+}
+{
+Typen:"Metall, Schwebe"
+}
+{
+Größe:"2.4"
+}
+{
+Gewicht:"125"
+}
+{
+HP:"150"
+}
+{
+Schadensverminderung:"4W6"
+}
+{
+Habitat:"Dunkle Wälder, Höhlen"
+}
+{
+Beschreibung:"Ein Monster vom Typ Stahl. Mit seiner Kette kann es sich sehr gut verteidigen. Je schwächer es ist, desto kürzer ist seine Kette aus Stachelkugeln. Es kann Zeitbomben abwerfen. Bei Sichtung einer sich potentiell gefährlich verhaltenden Kreatur greift es schnell an."
+}
+{
+Attacken:"Bombardement (8W12 HP), Hypnose (- HP), Stachelregen (6W6 HP), Zeitbombe (4W6 HP)"
+}
+{
+Nummer:"19"
+}

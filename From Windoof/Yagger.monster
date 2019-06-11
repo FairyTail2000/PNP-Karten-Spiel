@@ -1,0 +1,33 @@
+{
+Name:"Yagger"
+}
+{
+Rang:"US2"
+}
+{
+Typen:"Normal, Schwebe"
+}
+{
+Größe:"0.9"
+}
+{
+Gewicht:"15"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W6"
+}
+{
+Habitat:"Wälder mit viel Gestrüpp"
+}
+{
+Beschreibung:"Es ist geschmeidig und weiß, dass es eines Tages ein starkes Monster sein wird. Doch für's Erste wird er wohl weiterhin nur ein paar Blätter fressen."
+}
+{
+Attacken:"Freundschaft (- HP), Happen (1W4 HP), Rammen (2W4 HP)"
+}
+{
+Nummer:"223"
+}

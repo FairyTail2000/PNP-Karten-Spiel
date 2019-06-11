@@ -1,0 +1,33 @@
+{
+Name:"Maskerto"
+}
+{
+Rang:"3US4"
+}
+{
+Typen:"Flug"
+}
+{
+Größe:"1"
+}
+{
+Gewicht:"30"
+}
+{
+HP:"25"
+}
+{
+Schadensverminderung:"4W4"
+}
+{
+Habitat:"Gebirge, im Himmel"
+}
+{
+Beschreibung:"Sie fliegen meist als Gruppe durch die Luft und kreieren dort ominöse Choreographien. Es ist durch seine Zeichnung sehr gut im Tarnen."
+}
+{
+Attacken:"Durchbohren (4W4 HP), Sturzflug (3W4 HP), Windstoß (2W8 HP)"
+}
+{
+Nummer:"123"
+}

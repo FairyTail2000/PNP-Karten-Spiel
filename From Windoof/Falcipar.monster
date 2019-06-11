@@ -1,0 +1,33 @@
+{
+Name:"Falcipar"
+}
+{
+Rang:"0US6"
+}
+{
+Typen:"Insekt, Parasit"
+}
+{
+Größe:"0.04"
+}
+{
+Gewicht:"0.007"
+}
+{
+HP:"6"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Nahezu alle Wälder und Wiesen"
+}
+{
+Beschreibung:"Ein Falcipar ist ein zeckenähnliches Insekt, das es mag Blut zu saugen. Es ist jedoch nicht in der Lage Gefäße selbst zu öffnen. Stattdessen gibt es ein paar Enzyme auf Gewebe, um das Blut auf andere Weise zu erhalten."
+}
+{
+Attacken:"Pikser (1W2 HP), Spucken (1W4 HP)"
+}
+{
+Nummer:"54"
+}

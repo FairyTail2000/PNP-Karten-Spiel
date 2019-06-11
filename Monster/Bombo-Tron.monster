@@ -1,0 +1,36 @@
+{
+Name:"Bombo-Tron"
+}
+{
+Rang:"0US7"
+}
+{
+Rang_zahl:"7"
+}
+{
+Typen:"Chemie, Metall, Schwebe"
+}
+{
+Größe:"0.35"
+}
+{
+Gewicht:"4"
+}
+{
+HP:"25"
+}
+{
+Schadensverminderung:"1W6"
+}
+{
+Habitat:"Städte, Wälder, gemäßigte Weidefelder"
+}
+{
+Beschreibung:"Dieses Monster liebt es seine drei zur Verfügung stehenden Kugeln zu werfen und damit Dinge in die Luft zu jagen. Es kann seine Gestalt beliebig in die anderen Trons ändern."
+}
+{
+Attacken:"Knaller (2W4 HP), Rakete (1W8 HP), Rammen (2W4 HP)"
+}
+{
+Nummer:"21"
+}

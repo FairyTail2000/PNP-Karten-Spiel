@@ -1,0 +1,36 @@
+{
+Name:"Musicerror"
+}
+{
+Rang:"4US1"
+}
+{
+Rang_zahl:"41"
+}
+{
+Typen:"Elektro, Metall"
+}
+{
+Größe:"1.1"
+}
+{
+Gewicht:"35"
+}
+{
+HP:"35"
+}
+{
+Schadensverminderung:"2W10"
+}
+{
+Habitat:"Wälder in Stadtnähe"
+}
+{
+Beschreibung:"Sie kontrollieren den Schall. Wenn du also mitten im Wald seltsame Musik hörst, weißt du jetzt, warum."
+}
+{
+Attacken:"Druckwelle (5W12 HP), Durchbrennen (4W10 HP), Überschall (2W6+1W8 HP)"
+}
+{
+Nummer:"132"
+}

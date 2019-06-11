@@ -1,0 +1,33 @@
+{
+Name:"Wunschbombe"
+}
+{
+Rang:"0US1"
+}
+{
+Typen:"Chemie, Magie, Metall"
+}
+{
+Größe:"0.12"
+}
+{
+Gewicht:"0.5"
+}
+{
+HP:"1"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Sie können Wünsche einmalig erfüllen, sterben dann aber sofort. Natürlich können sie nur Wünsche erfüllen, die in ihrer Macht stehen."
+}
+{
+Attacken:"Abgang mit Stil (5W6 HP), Heilung (- HP), Kameradschaft (- HP), Kleine Explosion (5W10 HP)"
+}
+{
+Nummer:"216"
+}

@@ -1,0 +1,33 @@
+{
+Name:"Desotika"
+}
+{
+Rang:"2US4"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"0.5"
+}
+{
+Gewicht:"7"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"2W6"
+}
+{
+Habitat:"Ruhige Wälder, subtropische Gebiete"
+}
+{
+Beschreibung:"Desotika ist von Hass erfüllt. Es mag andere Kreaturen einfach nicht. Sein Herz schlägt für Erotika, aber dafür ist es wohl zu unfreundlich. Desotikas Aura sorgt bei Blickkontakt für schlechte Laune."
+}
+{
+Attacken:"Hass (- HP), Kopfnuss (2W6 HP), Selbsthass (- HP)"
+}
+{
+Nummer:"37"
+}

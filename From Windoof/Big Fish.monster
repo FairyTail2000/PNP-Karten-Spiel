@@ -1,0 +1,33 @@
+{
+Name:"Big Fish"
+}
+{
+Rang:"US2"
+}
+{
+Typen:"Gift, Wasser"
+}
+{
+Größe:"0.4"
+}
+{
+Gewicht:"7"
+}
+{
+HP:"25"
+}
+{
+Schadensverminderung:"1W10"
+}
+{
+Habitat:"Subpolare Meere, in tiefen Regionen"
+}
+{
+Beschreibung:"Big Fish leben im Wasser und locken mit ihrer Angelrute kleinere Kreaturen an, um diese dann zu verspeisen. Sie besitzen auf ihren Schuppen ein toxisches Sekret, das Opfer lähmen kann, wenn diese in die Umgebung des Big Fish gelangen."
+}
+{
+Attacken:"Biss (3W4 HP), Schnapper (3W6 HP), Seitenhieb (4W8 HP), Sekretion (2W4 HP)"
+}
+{
+Nummer:"10"
+}

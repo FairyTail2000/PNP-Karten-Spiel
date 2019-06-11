@@ -1,0 +1,33 @@
+{
+Name:"Ijsmag"
+}
+{
+Rang:"4US4"
+}
+{
+Typen:"Eis, Unsichtbar, Wasser"
+}
+{
+Größe:"1.2"
+}
+{
+Gewicht:"14"
+}
+{
+HP:"35"
+}
+{
+Schadensverminderung:"3W6"
+}
+{
+Habitat:"Eismeer"
+}
+{
+Beschreibung:"Sie sind sehr schnell und wendig. Durch ihre glitschige Haut ist es sehr schwer sie festzuhalten. Sie können Beute in sich aufbewahren, um sie zu verdauen, wenn sie Hunger haben."
+}
+{
+Attacken:"Bohrer (3W4 HP), Durchbohren (4W4 HP), Schockfrosten (3W8 HP), Wasserstrahl (3W8 HP)"
+}
+{
+Nummer:"98"
+}

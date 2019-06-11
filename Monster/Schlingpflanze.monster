@@ -1,0 +1,36 @@
+{
+Name:"Schlingpflanze"
+}
+{
+Rang:"0US4"
+}
+{
+Rang_zahl:"4"
+}
+{
+Typen:"Pflanze, Wasser"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"0.3"
+}
+{
+HP:"3"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"In flachen, trüben Gewässern"
+}
+{
+Beschreibung:"Mit ihren Ranken erfassen sie umhertreibendes, totes Material. Mit ihrem kleinen Maul können sie das dann verspeisen. Sie mögen es, wenn sie Dinge umklammern können."
+}
+{
+Attacken:"Biss (3W4 HP), Quetschen (4W8 HP), Wurzeln (- HP)"
+}
+{
+Nummer:"163"
+}

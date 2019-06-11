@@ -1,0 +1,33 @@
+{
+Name:"Rock Boss"
+}
+{
+Rang:"5US"
+}
+{
+Typen:"Gestein"
+}
+{
+Größe:"3"
+}
+{
+Gewicht:"600"
+}
+{
+HP:"80"
+}
+{
+Schadensverminderung:"4W10"
+}
+{
+Habitat:"Gebirgszüge"
+}
+{
+Beschreibung:"Sie sind groß, massiv und schwer. Wer unter einen Rock Boss gerät kann sich sicher sein, dass er danach mit dem Wind weggepustet werden kann."
+}
+{
+Attacken:"Quetschen (4W8 HP), Stachelsteine (2W8 HP), Zermalmen (6W12 HP)"
+}
+{
+Nummer:"153"
+}

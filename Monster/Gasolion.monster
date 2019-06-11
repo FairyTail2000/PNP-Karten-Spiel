@@ -1,0 +1,36 @@
+{
+Name:"Gasolion"
+}
+{
+Rang:"0MS"
+}
+{
+Rang_zahl:"100"
+}
+{
+Typen:"Chemie, Metall"
+}
+{
+Größe:"0.8"
+}
+{
+Gewicht:"165"
+}
+{
+HP:"60"
+}
+{
+Schadensverminderung:"3W10"
+}
+{
+Habitat:"Verschmutzte Städte"
+}
+{
+Beschreibung:"Sie sind hochexplosiv und bereit dazu hochzugehen, wann immer sie müssen. Du willst dein Haus behalten oder?"
+}
+{
+Attacken:"Bombardement (8W12 HP), Brandsekret (- HP), Explosion (10W10 HP), Feuerstrahl (2W10 HP), Rakete (1W8 HP)"
+}
+{
+Nummer:"73"
+}

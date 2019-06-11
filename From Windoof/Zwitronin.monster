@@ -1,0 +1,33 @@
+{
+Name:"Zwitronin"
+}
+{
+Rang:"3US9"
+}
+{
+Typen:"Boden, Elektro, Gestein"
+}
+{
+Größe:"1.2"
+}
+{
+Gewicht:"15"
+}
+{
+HP:"35"
+}
+{
+Schadensverminderung:"2W6+2W8"
+}
+{
+Habitat:"Gebirge"
+}
+{
+Beschreibung:"Zwitronin dreht sich oft nur im Kreis und stößt ein paar Blitze aus, was dann wie ein Feuerwerk aussieht."
+}
+{
+Attacken:"Durchbohren (4W4 HP), Elektrostoß (3W8 HP), Kreisel (1W4 HP), Rage (- HP), Sprint (- HP)"
+}
+{
+Nummer:"229"
+}

@@ -1,0 +1,36 @@
+{
+Name:"Stopper"
+}
+{
+Rang:"0US1"
+}
+{
+Rang_zahl:"1"
+}
+{
+Typen:"Boden, Pflanze"
+}
+{
+Größe:"1"
+}
+{
+Gewicht:"10"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"2W6"
+}
+{
+Habitat:"Waldränder, Wiesen, Parks, Gärten, Weideflächen"
+}
+{
+Beschreibung:"Sie kommen in verschiedenen Sorten. Manche sind todbefallen, erfüllen Wünsche oder machen bestimmte Muster. Jeder liebt oder hasst sie. Was dazwischen gibt es nicht."
+}
+{
+Attacken:"Ansehen (- HP), Grube (2W6 HP), Schieben (2W4 HP), Wachsen (- HP), Wurzeln (- HP)"
+}
+{
+Nummer:"188"
+}

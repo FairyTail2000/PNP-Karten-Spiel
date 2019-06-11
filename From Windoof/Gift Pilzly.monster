@@ -1,0 +1,33 @@
+{
+Name:"Gift Pilzly"
+}
+{
+Rang:"0US3"
+}
+{
+Typen:"Boden, Gift"
+}
+{
+Größe:"0.05"
+}
+{
+Gewicht:"0.015"
+}
+{
+HP:"5"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Feuchte Wälder"
+}
+{
+Beschreibung:"Sie sehen aus wie normale Pilze, sind aber beweglich und hochgiftig. Das geübte Auge erkennt aber, dass ihre Farbe sie verrät."
+}
+{
+Attacken:"Giftpikser (1W2 HP), Sepsis (1W4 HP), Sprint (- HP), Wachsen (- HP)"
+}
+{
+Nummer:"76"
+}

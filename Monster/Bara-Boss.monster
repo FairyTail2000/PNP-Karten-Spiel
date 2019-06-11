@@ -1,0 +1,36 @@
+{
+Name:"Bara-Boss"
+}
+{
+Rang:"6US1"
+}
+{
+Rang_zahl:"61"
+}
+{
+Typen:"Elektro, Gift, Schwebe"
+}
+{
+Größe:"1"
+}
+{
+Gewicht:"1.5"
+}
+{
+HP:"50"
+}
+{
+Schadensverminderung:"2W8"
+}
+{
+Habitat:"Subpolare, feuchte Gebiete"
+}
+{
+Beschreibung:"Der Bara-Boss ist ein sehr schnell überreagierendes Monster, vor dem man sich in Acht nehmen sollte. Durch die Kombination von Strom und Gift, kann es sehr schnell Personen vollständig lähmen."
+}
+{
+Attacken:"Allergischer Schock (4W8 HP), Durchbrennen (4W10 HP), Giftwolke (2W4 HP), Überladungsstoß (3W12 HP)"
+}
+{
+Nummer:"6"
+}

@@ -1,0 +1,36 @@
+{
+Name:"Knuddelwuddel"
+}
+{
+Rang:"US1"
+}
+{
+Rang_zahl:"11"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"1.5"
+}
+{
+HP:"8"
+}
+{
+Schadensverminderung:"1W6"
+}
+{
+Habitat:"Parks, Weideflächen"
+}
+{
+Beschreibung:"Man kann es einfach nur lieben. Es ist immer fröhlich und trägt auch immer ein flauschiges Herz mit sich rum, das aber zu seinem Körper gehört."
+}
+{
+Attacken:"Freundschaft (- HP), Liebesfluch (- HP), Schieben (2W4 HP)"
+}
+{
+Nummer:"113"
+}

@@ -1,0 +1,33 @@
+{
+Name:"Big Shadow"
+}
+{
+Rang:"US2"
+}
+{
+Typen:"Finsternis, Geist"
+}
+{
+Größe:"1"
+}
+{
+Gewicht:"0.1"
+}
+{
+HP:"25"
+}
+{
+Schadensverminderung:"2W4"
+}
+{
+Habitat:"Städte, Vorstädte, Dörfer"
+}
+{
+Beschreibung:"Big Shadow ist ein transparentes Monster, das meist nachts umhertreibt und nach Mana sucht. Wird es fündig, absorbiert es meist alles, was es findet und wächst dadurch."
+}
+{
+Attacken:"Manabombe (3W4 HP), Todeshauch (1W4+8 HP), Unsichtbarer Schlag (4W4 HP)"
+}
+{
+Nummer:"11"
+}

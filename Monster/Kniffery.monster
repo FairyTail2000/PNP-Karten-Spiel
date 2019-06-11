@@ -1,0 +1,36 @@
+{
+Name:"Kniffery"
+}
+{
+Rang:"US9"
+}
+{
+Rang_zahl:"19"
+}
+{
+Typen:"Elektro, Schwebe"
+}
+{
+Größe:"0.7"
+}
+{
+Gewicht:"10"
+}
+{
+HP:"15"
+}
+{
+Schadensverminderung:"1W4+1W6"
+}
+{
+Habitat:"Fabriken, Städte"
+}
+{
+Beschreibung:"Sie sind elektrisch geladen und können mit ihren beiden Armen Strom transferieren, in dem sie zwei Pole miteinander verbinden."
+}
+{
+Attacken:"Aufladen (- HP), Rammen (2W4 HP), Zündfunke (1W6 HP)"
+}
+{
+Nummer:"112"
+}

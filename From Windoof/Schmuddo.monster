@@ -1,0 +1,33 @@
+{
+Name:"Schmuddo"
+}
+{
+Rang:"0O-/5US5"
+}
+{
+Typen:"Elektro, Laser, Schwebe"
+}
+{
+Größe:"2.5"
+}
+{
+Gewicht:"175"
+}
+{
+HP:"150"
+}
+{
+Schadensverminderung:"3W20"
+}
+{
+Habitat:"In der Nähe von Elektrizitätswerken"
+}
+{
+Beschreibung:"Sie sind extrem stark geladen und setzen manchmal Elektrizitätswerke außer Kraft. Sie benötigen Strom, da sie sonst sterben."
+}
+{
+Attacken:"Anzapfen (- HP), Aufladen (- HP), Durchbrennen (4W10 HP), Lichtbogen (5W20 HP), Spannungsblitz (4W8 HP)"
+}
+{
+Nummer:"168"
+}

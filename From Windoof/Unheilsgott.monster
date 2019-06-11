@@ -1,0 +1,33 @@
+{
+Name:"Unheilsgott"
+}
+{
+Rang:"0E2-/0AG4"
+}
+{
+Typen:"Flug, Magie"
+}
+{
+Größe:"None"
+}
+{
+Gewicht:"None"
+}
+{
+HP:"2000"
+}
+{
+Schadensverminderung:"5W100"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Der Unheilsgott ist der Verursacher des Funklochs in Monalien. Seine Größe und sein Gewicht ist kaum schätzbar. Er verspeist manchmal kleinere Monde un Planeten. Was erwartet man also?!"
+}
+{
+Attacken:"Abgang mit Stil (5W6 HP), Bombardement (8W12 HP), Einäschern (5W20 HP), Flutwelle (4W20 HP), Verdauen (4W10 HP), Volles Arsenal (5W10 HP), Überladungsstoß (3W12 HP)"
+}
+{
+Nummer:"203"
+}

@@ -1,0 +1,36 @@
+{
+Name:"Epilo"
+}
+{
+Rang:"3US"
+}
+{
+Rang_zahl:"30"
+}
+{
+Typen:"Geist, Psycho"
+}
+{
+Größe:"0.5"
+}
+{
+Gewicht:"0.05"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"2W6"
+}
+{
+Habitat:"Friedhöfe, verlassene Gebäude, religiöse Orte"
+}
+{
+Beschreibung:"Epilo ist ein sehr schauriges Monster, das gern andere Kreaturen besetzt, und diesen dann ihren Willen aufzwingt. Es besitzt recht starke Magie."
+}
+{
+Attacken:"Besetzen (- HP), Ersticken (2W6 HP), Gänsehaut (2W6 HP), Hypnose (- HP), Unsichtbarer Schlag (4W4 HP)"
+}
+{
+Nummer:"48"
+}

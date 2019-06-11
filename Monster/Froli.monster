@@ -1,0 +1,36 @@
+{
+Name:"Froli"
+}
+{
+Rang:"US5"
+}
+{
+Rang_zahl:"15"
+}
+{
+Typen:"Geist, Schwebe"
+}
+{
+Größe:"0.3"
+}
+{
+Gewicht:"2"
+}
+{
+HP:"12"
+}
+{
+Schadensverminderung:"2W4"
+}
+{
+Habitat:"Verlassene Wälder"
+}
+{
+Beschreibung:"Sie sind eher unschön anzusehende Gestalten, bei denen man nicht weiß, was ihr Körper und was ihr Maul ist. Sagen wir Halbe-Halbe."
+}
+{
+Attacken:"Biss (3W4 HP), Selbstnutz (- HP), Todeshauch (1W4+8 HP)"
+}
+{
+Nummer:"70"
+}

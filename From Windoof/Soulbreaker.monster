@@ -1,0 +1,33 @@
+{
+Name:"Soulbreaker"
+}
+{
+Rang:"4US3"
+}
+{
+Typen:"Elektro, Finsternis, Schwebe"
+}
+{
+Größe:"1"
+}
+{
+Gewicht:"10"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"2W8"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Man sagt, dass sie in der Lage sind Seelen zu spalten. Und drehen können sie sich im Inneren auch ganz hervorragend."
+}
+{
+Attacken:"Anzapfen (- HP), Kreisel (1W4 HP), Spannungsblitz (4W8 HP), Todesfluch (2W10 HP), Todeshauch (1W4+8 HP)"
+}
+{
+Nummer:"181"
+}

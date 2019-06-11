@@ -1,0 +1,36 @@
+{
+Name:"Starron"
+}
+{
+Rang:"9US1"
+}
+{
+Rang_zahl:"91"
+}
+{
+Typen:"Metall, Schwebe"
+}
+{
+Größe:"2.2"
+}
+{
+Gewicht:"35"
+}
+{
+HP:"80"
+}
+{
+Schadensverminderung:"3W8+1W6"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Es besitzt fünf lange Ketten mit verschiedenen Stacheln und Klingen. Es ist blitzschnell und verarbeitet Beute sehr schnell zu einem homogenen Brei."
+}
+{
+Attacken:"Durchbohren (4W4 HP), Nadelgewehr (8W4 HP), Schnitt (3W10 HP), Sprint (- HP)"
+}
+{
+Nummer:"187"
+}

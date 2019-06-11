@@ -1,0 +1,36 @@
+{
+Name:"Biggest Boss"
+}
+{
+Rang:"0O-/5US"
+}
+{
+Rang_zahl:"250"
+}
+{
+Typen:"Metall"
+}
+{
+Größe:"4"
+}
+{
+Gewicht:"240"
+}
+{
+HP:"200"
+}
+{
+Schadensverminderung:"6W12"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Der Biggest Boss ist einer der gefährlichsten Bosse überhaupt. Ihn zu besiegen funktioniert am besten, wenn man an sein Inneres gelangt. Bis man allerdings in solche Nähe kommt, ist man meist schon pulverisiert."
+}
+{
+Attacken:"Bombardement (8W12 HP), Druckwelle (5W12 HP), Einäschern (5W20 HP), Pulverisieren (4W20 HP)"
+}
+{
+Nummer:"13"
+}

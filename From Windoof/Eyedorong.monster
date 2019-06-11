@@ -1,0 +1,33 @@
+{
+Name:"Eyedorong"
+}
+{
+Rang:"3US5"
+}
+{
+Typen:"Normal, Schwebe"
+}
+{
+Größe:"1"
+}
+{
+Gewicht:"10"
+}
+{
+HP:"35"
+}
+{
+Schadensverminderung:"3W4"
+}
+{
+Habitat:"Kühle, dunkle Wälder"
+}
+{
+Beschreibung:"Sie sind mit mehr Augen bestückt, um ihre Beute bereits auf einem Kilometer Distanz zu sehen. Trotzdem sind sie eher schlechte Jäger."
+}
+{
+Attacken:"Kopfnuss (2W6 HP), Schwanzhieb (3W6 HP), Stachelregen (6W6 HP)"
+}
+{
+Nummer:"53"
+}

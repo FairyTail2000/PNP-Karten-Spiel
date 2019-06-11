@@ -1,0 +1,33 @@
+{
+Name:"Brenner-Boss"
+}
+{
+Rang:"8US5"
+}
+{
+Typen:"Feuer, Schwebe"
+}
+{
+Größe:"1.1"
+}
+{
+Gewicht:"24"
+}
+{
+HP:"60"
+}
+{
+Schadensverminderung:"4W8"
+}
+{
+Habitat:"Vulkanische Gegenden, Wüsten"
+}
+{
+Beschreibung:"Brenner-Bosse sind lodernde Kreaturen, die manchmal vor Wut Flammen herumschießen. Man sollte sie eher meiden, wenn man sie sieht."
+}
+{
+Attacken:"Einäschern (5W20 HP), Feuerwand (3W10 HP), Flammenstoß (2W8 HP)"
+}
+{
+Nummer:"27"
+}

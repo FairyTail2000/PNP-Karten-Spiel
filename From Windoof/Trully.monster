@@ -1,0 +1,33 @@
+{
+Name:"Trully"
+}
+{
+Rang:"0US5"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"0.08"
+}
+{
+Gewicht:"0.02"
+}
+{
+HP:"3"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Keller, alte Lagerräume"
+}
+{
+Beschreibung:"Wenn es schon keine Schuhe bekommt, dann holt es sich jetzt welche selbst. Blöd nur, dass es keine in der passenden Größe gibt."
+}
+{
+Attacken:"Ansehen (- HP), Rammen (2W4 HP), Schieben (2W4 HP)"
+}
+{
+Nummer:"201"
+}

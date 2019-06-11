@@ -1,0 +1,36 @@
+{
+Name:"Spiketronic"
+}
+{
+Rang:"3US6"
+}
+{
+Rang_zahl:"36"
+}
+{
+Typen:"Elektro, Schwebe"
+}
+{
+Größe:"0.9"
+}
+{
+Gewicht:"32"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"2W6+1W4"
+}
+{
+Habitat:"Gärten, Parks"
+}
+{
+Beschreibung:"Sie schweben langsam durch Gärten und suchen dort nach elektronischen Gegenständen, um diese leerzusaugen."
+}
+{
+Attacken:"Anzapfen (- HP), Aufladen (- HP), Spannungsblitz (4W8 HP), Stachelregen (6W6 HP)"
+}
+{
+Nummer:"183"
+}

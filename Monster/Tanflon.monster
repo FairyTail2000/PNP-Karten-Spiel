@@ -1,0 +1,36 @@
+{
+Name:"Tanflon"
+}
+{
+Rang:"0M-/6US1"
+}
+{
+Rang_zahl:"161"
+}
+{
+Typen:"Chemie, Metall"
+}
+{
+Größe:"2"
+}
+{
+Gewicht:"250"
+}
+{
+HP:"200"
+}
+{
+Schadensverminderung:"4W20"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Tanflon ist in der Lage Länder zu zerstören. Fass es bloß nicht an! Durch seine vier Flammen kann man sehen, wie groß der aktuelle Explosionsradius wäre."
+}
+{
+Attacken:"Abgang mit Stil (5W6 HP), Explosion (10W10 HP), Kleine Explosion (5W10 HP), Lichtbogen (5W20 HP)"
+}
+{
+Nummer:"196"
+}

@@ -1,0 +1,33 @@
+{
+Name:"Minischattentot"
+}
+{
+Rang:"0US1"
+}
+{
+Typen:"Finsternis, Schwebe"
+}
+{
+Größe:"0.002"
+}
+{
+Gewicht:"0.001"
+}
+{
+HP:"5"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Friedhöfe, dunkle Wälder"
+}
+{
+Beschreibung:"Sie sind so klein, dass es zur Gefahr wird, wenn man irgendwo hinschaut. Sollte der Blick aus Versehen ein Minischattentot treffen, kommt ihre passive Fähigkeit zum Einsatz. Kleiner Tipp: Tu's nicht!"
+}
+{
+Attacken:"Sieh-Nicht-Her (5W8 HP), Todeshauch (1W4+8 HP)"
+}
+{
+Nummer:"129"
+}

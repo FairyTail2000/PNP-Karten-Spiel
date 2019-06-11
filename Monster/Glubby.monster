@@ -1,0 +1,36 @@
+{
+Name:"Glubby"
+}
+{
+Rang:"0US6"
+}
+{
+Rang_zahl:"6"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"0.5"
+}
+{
+Gewicht:"15"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W8"
+}
+{
+Habitat:"Wälder, Sümpfe, verstrahlte Gegenden"
+}
+{
+Beschreibung:"Sie sind friedliche Gestalten und treue Haustiere. Leider ist ihr Körperwachstum unkontrolliert, was dazu führt, das ihre Körperform irgendwann etwas unpraktisch wird."
+}
+{
+Attacken:"Freundschaft (- HP), Rammen (2W4 HP)"
+}
+{
+Nummer:"82"
+}

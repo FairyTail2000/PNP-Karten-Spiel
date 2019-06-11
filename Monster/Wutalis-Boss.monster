@@ -1,0 +1,36 @@
+{
+Name:"Wutalis-Boss"
+}
+{
+Rang:"9US1"
+}
+{
+Rang_zahl:"91"
+}
+{
+Typen:"Chemie, Normal"
+}
+{
+Größe:"2"
+}
+{
+Gewicht:"45"
+}
+{
+HP:"75"
+}
+{
+Schadensverminderung:"3W12"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Sie sind die wohl aggressivsten Monster von allen. Allein deine bloße Existenz macht sie wütend. Entschuldigung, dass ich Ihren Sauerstoff geliehen habe, Eure Majestät!"
+}
+{
+Attacken:"Hass (- HP), Kleine Explosion (5W10 HP), Knaller (2W4 HP), Rage (- HP), Rakete (1W8 HP), Zermalmen (6W12 HP)"
+}
+{
+Nummer:"220"
+}

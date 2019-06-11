@@ -1,0 +1,36 @@
+{
+Name:"Groll-Boss"
+}
+{
+Rang:"2US4"
+}
+{
+Rang_zahl:"24"
+}
+{
+Typen:"Boden"
+}
+{
+Größe:"0.9"
+}
+{
+Gewicht:"40"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"2W6+2W8"
+}
+{
+Habitat:"Gebirge"
+}
+{
+Beschreibung:"Mit seinen drei Köpfen ist es in der Lage extrem laut in Dreiklängen zu brüllen. Er schreit so laut, dass Fenster in einem Kilometer Entfernung wackeln oder zerbrechen können."
+}
+{
+Attacken:"Kantenschlag (2W6 HP), Kopfnuss (2W6 HP), Schwanzhieb (3W6 HP), Überschall (2W6+1W8 HP)"
+}
+{
+Nummer:"88"
+}

@@ -1,0 +1,33 @@
+{
+Name:"Mini-Nitro-Bomb"
+}
+{
+Rang:"0US6"
+}
+{
+Typen:"Chemie, Metall"
+}
+{
+Größe:"0.08"
+}
+{
+Gewicht:"0.8"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W6"
+}
+{
+Habitat:"Weideflächen, Wälder"
+}
+{
+Beschreibung:"Sie sind die am schnellsten explodierenden Bomben, die man so kennt. Sie gehen bereits hoch, wenn sie aus 10cm Höhe fallen."
+}
+{
+Attacken:"Kleine Explosion (5W10 HP), Rammen (2W4 HP), Sprint (- HP)"
+}
+{
+Nummer:"128"
+}

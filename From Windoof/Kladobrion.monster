@@ -1,0 +1,33 @@
+{
+Name:"Kladobrion"
+}
+{
+Rang:"4US2"
+}
+{
+Typen:"Gestein"
+}
+{
+Größe:"0.4"
+}
+{
+Gewicht:"6"
+}
+{
+HP:"25"
+}
+{
+Schadensverminderung:"2W6"
+}
+{
+Habitat:"Höhlen"
+}
+{
+Beschreibung:"Meistens drehen sie sich, hängen einfach wie Kristalle oder wie Lampions von der Decke. Lass sie nicht auf deinen Kopf fallen!"
+}
+{
+Attacken:"Bohrer (3W4 HP), Durchbohren (4W4 HP), Schleuder (1W4+1W12 HP)"
+}
+{
+Nummer:"106"
+}

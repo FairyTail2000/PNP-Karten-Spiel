@@ -1,0 +1,36 @@
+{
+Name:"Ekanto"
+}
+{
+Rang:"0US8"
+}
+{
+Rang_zahl:"8"
+}
+{
+Typen:"Boden"
+}
+{
+Größe:"0.8"
+}
+{
+Gewicht:"7"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W8"
+}
+{
+Habitat:"Unter der Erde"
+}
+{
+Beschreibung:"Es ist immer auf der Suche irgendwelches Kleingetier unter der Erde zu finden. Mit seinen kurzen Fühlern und recht schlechten Augen gelingt ihm das nur schwer, aber es ist dafür ein umso größerer Erfolg."
+}
+{
+Attacken:"Grube (2W6 HP), Schwanzhieb (3W6 HP), Tunnel (- HP)"
+}
+{
+Nummer:"46"
+}

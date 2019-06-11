@@ -1,0 +1,33 @@
+{
+Name:"Sedor"
+}
+{
+Rang:"US4"
+}
+{
+Typen:"Normal, Schwebe"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"2"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"2W4"
+}
+{
+Habitat:"Waldränder"
+}
+{
+Beschreibung:"Sie beißen gern und lecken gern Dinge ab. Aber eigentlich sind sie keine Fleischfresser."
+}
+{
+Attacken:"Biss (3W4 HP), Sprint (- HP), Spucken (1W4 HP)"
+}
+{
+Nummer:"171"
+}

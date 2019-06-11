@@ -1,0 +1,9 @@
+{
+double_damage:"Geist,Magie,Normal,Unsichtbar"
+}
+{
+half_damage:"Finsternis,Metall"
+}
+{
+no_damage:" "
+}

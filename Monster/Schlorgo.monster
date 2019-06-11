@@ -1,0 +1,36 @@
+{
+Name:"Schlorgo"
+}
+{
+Rang:"US7"
+}
+{
+Rang_zahl:"17"
+}
+{
+Typen:"Wasser"
+}
+{
+Größe:"0.5"
+}
+{
+Gewicht:"1.5"
+}
+{
+HP:"12"
+}
+{
+Schadensverminderung:"2W4"
+}
+{
+Habitat:"In warmen Gewässern"
+}
+{
+Beschreibung:"Sie schwimmen umher und hinterlassen meist kleine Löcher im Boden, um am Ende zu wissen, wo sie lang müssen."
+}
+{
+Attacken:"Durchbohren (4W4 HP), Wasserspiel (- HP), Wasserstrahl (3W8 HP)"
+}
+{
+Nummer:"164"
+}

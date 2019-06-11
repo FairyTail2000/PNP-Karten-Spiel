@@ -1,0 +1,33 @@
+{
+Name:"Fire-Tron"
+}
+{
+Rang:"US3"
+}
+{
+Typen:"Feuer, Schwebe"
+}
+{
+Größe:"0.5"
+}
+{
+Gewicht:"7"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W4+1W6"
+}
+{
+Habitat:"Wüsten, tropische Ökosysteme"
+}
+{
+Beschreibung:"Sie können schweben und dabei ihre drei Feuerkugeln präzise auf Gegner schleudern. Manche Leute sagen, dass sie beliebig ihre Gestalt zu anderen Trons ändern können..."
+}
+{
+Attacken:"Brandsekret (- HP), Entzünden (2W6 HP), Flammenstoß (2W8 HP), Knaller (2W4 HP)"
+}
+{
+Nummer:"58"
+}

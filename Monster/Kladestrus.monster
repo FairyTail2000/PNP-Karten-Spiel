@@ -1,0 +1,36 @@
+{
+Name:"Kladestrus"
+}
+{
+Rang:"8US6"
+}
+{
+Rang_zahl:"86"
+}
+{
+Typen:"Gestein, Magie"
+}
+{
+Größe:"3"
+}
+{
+Gewicht:"450"
+}
+{
+HP:"100"
+}
+{
+Schadensverminderung:"4W12"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Dieses Kristallmonster beherrscht sehr kuriose Magie. Es kann Leute in Cartoongestalten verwandeln oder aus einem Baum eine Blume machen. Es ist sehr selten, wird gesucht und es wird gut dafür bezahlt."
+}
+{
+Attacken:"Anpassung (- HP), Cartoonisieren (- HP), Hypnose (- HP), Manabombe (3W4 HP)"
+}
+{
+Nummer:"105"
+}

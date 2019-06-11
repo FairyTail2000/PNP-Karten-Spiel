@@ -1,0 +1,33 @@
+{
+Name:"Gestaltwandler"
+}
+{
+Rang:"0OS"
+}
+{
+Typen:"Magie, Schwebe"
+}
+{
+Größe:"0.3"
+}
+{
+Gewicht:"4"
+}
+{
+HP:"70"
+}
+{
+Schadensverminderung:"6W4"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Gestaltwandler können die Gestalt, die sie sehen kopieren und imitieren. Das können sie so gut, dass man sie nicht vom Original unterscheiden kann."
+}
+{
+Attacken:"Anpassung (- HP), Gedankenkontrolle (- HP), Kopierkunst (- HP)"
+}
+{
+Nummer:"74"
+}

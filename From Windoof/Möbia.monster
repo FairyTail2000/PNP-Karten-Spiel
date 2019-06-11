@@ -1,0 +1,33 @@
+{
+Name:"Möbia"
+}
+{
+Rang:"3US3"
+}
+{
+Typen:"Boden, Insekt, Parasit"
+}
+{
+Größe:"0.003"
+}
+{
+Gewicht:"0.008"
+}
+{
+HP:"25"
+}
+{
+Schadensverminderung:"2W6"
+}
+{
+Habitat:"Nährstoffarme Böden, unhygienische Gebäude"
+}
+{
+Beschreibung:"Sie huschen gern unter die Haut untoter und toter Lebewesen, um sich von deren Gewebe zu ernähren. Darin legen sie dann auch Eier, um sich rasch zu vermehren."
+}
+{
+Attacken:"Grube (2W6 HP), Happen (1W4 HP), Rammen (2W4 HP), Sepsis (1W4 HP)"
+}
+{
+Nummer:"131"
+}

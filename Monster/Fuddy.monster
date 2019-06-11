@@ -1,0 +1,36 @@
+{
+Name:"Fuddy"
+}
+{
+Rang:"0US8"
+}
+{
+Rang_zahl:"8"
+}
+{
+Typen:"Flug, Normal"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"1.5"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W4+1W6"
+}
+{
+Habitat:"An sonnigen Tagen im Himmel"
+}
+{
+Beschreibung:"Sie sind elegante Flieger mit einem Auge, aber vielen Stacheln. Streicheln ist eine blöde Idee."
+}
+{
+Attacken:"Bohrer (3W4 HP), Rammen (2W4 HP), Sturzflug (3W4 HP)"
+}
+{
+Nummer:"71"
+}

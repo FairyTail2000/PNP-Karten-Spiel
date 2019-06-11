@@ -1,0 +1,33 @@
+{
+Name:"Puror"
+}
+{
+Rang:"7US8"
+}
+{
+Typen:"Normal, Schwebe"
+}
+{
+Größe:"1.4"
+}
+{
+Gewicht:"45"
+}
+{
+HP:"60"
+}
+{
+Schadensverminderung:"3W8"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Es besitzt ein riesiges Maul und kann damit auch Beute verspeisen, die fast so groß ist, wie es selbst. Zudem kann es auch seine Hörner als Waffe benutzen."
+}
+{
+Attacken:"Biss (3W4 HP), Durchbohren (4W4 HP), Pürieren (1W4 HP), Verdauen (4W10 HP)"
+}
+{
+Nummer:"150"
+}

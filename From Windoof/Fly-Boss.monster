@@ -1,0 +1,33 @@
+{
+Name:"Fly-Boss"
+}
+{
+Rang:"3US9"
+}
+{
+Typen:"Flug, Gift, Insekt"
+}
+{
+Größe:"1.5"
+}
+{
+Gewicht:"23"
+}
+{
+HP:"40"
+}
+{
+Schadensverminderung:"3W6"
+}
+{
+Habitat:"In Stadtnähe"
+}
+{
+Beschreibung:"Fliege ist hier der falsche Begriff. Diese gigantische Fressmaschine hört einfach nicht auf zu essen und Eier zu legen. Lass sie bloß nicht bei dir wohnen!"
+}
+{
+Attacken:"Enzymschleuder (5W8 HP), Giftklinge (2W8 HP), Toxischer Schock (3W4 HP), Verdauen (4W10 HP)"
+}
+{
+Nummer:"68"
+}

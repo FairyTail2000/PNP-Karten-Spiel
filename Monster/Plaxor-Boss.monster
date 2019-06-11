@@ -1,0 +1,36 @@
+{
+Name:"Plaxor-Boss"
+}
+{
+Rang:"7US1"
+}
+{
+Rang_zahl:"71"
+}
+{
+Typen:"Gestein, Magie, Schwebe"
+}
+{
+Größe:"0.8"
+}
+{
+Gewicht:"45"
+}
+{
+HP:"50"
+}
+{
+Schadensverminderung:"6W6"
+}
+{
+Habitat:"Gebirgsgipfel"
+}
+{
+Beschreibung:"Seine zehn Fragmente sind sehr stabil und eignen sich als Waffe. Man sagt, dass man es besiegen kann, wenn man die Steine in einer besonderen Reihenfolge trifft."
+}
+{
+Attacken:"Kieselregen (8W4 HP), Quetschen (4W8 HP), Stachelsteine (2W8 HP), Verbot (- HP)"
+}
+{
+Nummer:"146"
+}

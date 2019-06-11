@@ -1,0 +1,33 @@
+{
+Name:"Woyly"
+}
+{
+Rang:"4US2"
+}
+{
+Typen:"Gestein"
+}
+{
+Größe:"2"
+}
+{
+Gewicht:"800"
+}
+{
+HP:"60"
+}
+{
+Schadensverminderung:"3W8"
+}
+{
+Habitat:"In Gebirgeszügen"
+}
+{
+Beschreibung:"Sie rollen durch die Berge und plätten alles, was ihnen im Weg steht. Dabei können sie einzelne Segmente ihres Körpers unabhängig voneinander bewegen."
+}
+{
+Attacken:"Stampfer (4W10 HP), Zermalmen (6W12 HP)"
+}
+{
+Nummer:"215"
+}

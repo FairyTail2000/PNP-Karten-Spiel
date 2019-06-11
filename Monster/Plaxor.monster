@@ -1,0 +1,36 @@
+{
+Name:"Plaxor"
+}
+{
+Rang:"4US2"
+}
+{
+Rang_zahl:"42"
+}
+{
+Typen:"Gestein, Schwebe"
+}
+{
+Größe:"0.5"
+}
+{
+Gewicht:"25"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"4W6"
+}
+{
+Habitat:"Gebirge"
+}
+{
+Beschreibung:"Mit seinem magischen Zentrum, das von fünf Felsen umgeben ist, ist es nur schwer angreifbar. In Rage nutzt es seine Verteidigung als Waffe."
+}
+{
+Attacken:"Schleuder (1W4+1W12 HP), Sprint (- HP), Stachelsteine (2W8 HP), Verhärten (- HP)"
+}
+{
+Nummer:"145"
+}

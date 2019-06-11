@@ -1,0 +1,9 @@
+{
+double_damage:"Pflanze"
+}
+{
+half_damage:"Eis,Finsternis,Magie,Schwebe,Unsichtbar"
+}
+{
+no_damage:"Geist"
+}

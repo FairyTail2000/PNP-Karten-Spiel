@@ -1,0 +1,33 @@
+{
+Name:"Dicky"
+}
+{
+Rang:"0US4"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"0.4"
+}
+{
+Gewicht:"60"
+}
+{
+HP:"25"
+}
+{
+Schadensverminderung:"1W10"
+}
+{
+Habitat:"Selten freilebend, eher als Haustier gehalten"
+}
+{
+Beschreibung:"Dicky ist für seine Größe sehr schwer und massiv. Es sollte nicht berührt werden, außer man will zunehmen. Ansonsten sind sie eher friedlich und sehnen sich nach Seelenfrieden."
+}
+{
+Attacken:"Kontaktexpansion (- HP), Rammen (2W4 HP), Spucken (1W4 HP)"
+}
+{
+Nummer:"38"
+}

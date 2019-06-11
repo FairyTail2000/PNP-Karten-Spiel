@@ -1,0 +1,33 @@
+{
+Name:"Rador Käfer"
+}
+{
+Rang:"2US8"
+}
+{
+Typen:"Chemie, Insekt"
+}
+{
+Größe:"0.08"
+}
+{
+Gewicht:"0.07"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"2W6"
+}
+{
+Habitat:"Waldböden"
+}
+{
+Beschreibung:"Es gibt zwei Unterarten von ihnen. Sie sind beide sehr gefährlich, da ihr Speichel schwach radioaktiv ist. Bisswunden sind also oft tödlich."
+}
+{
+Attacken:"Biss (3W4 HP), Giftpikser (1W2 HP), Sepsis (1W4 HP), Verstrahlen (1W20 HP)"
+}
+{
+Nummer:"152"
+}

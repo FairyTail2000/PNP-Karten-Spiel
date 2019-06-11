@@ -1,0 +1,36 @@
+{
+Name:"Para-Fleck"
+}
+{
+Rang:"2US3"
+}
+{
+Rang_zahl:"23"
+}
+{
+Typen:"Feuer, Finsternis, Geist, Schwebe"
+}
+{
+Größe:"0.03"
+}
+{
+Gewicht:"0.002"
+}
+{
+HP:"12"
+}
+{
+Schadensverminderung:"1W6"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Wenn sie auftauchen, sollte man aufpassen, dass sie sich nicht auf deine Haut kleben. Dort können sie nämlich gruselige Sachen anrichten."
+}
+{
+Attacken:"Brandmarke (4W10 HP), Brandsekret (- HP), Todeshauch (1W4+8 HP)"
+}
+{
+Nummer:"138"
+}

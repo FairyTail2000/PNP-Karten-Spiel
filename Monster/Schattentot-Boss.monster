@@ -1,0 +1,36 @@
+{
+Name:"Schattentot-Boss"
+}
+{
+Rang:"9US7"
+}
+{
+Rang_zahl:"97"
+}
+{
+Typen:"Finsternis, Schwebe"
+}
+{
+Größe:"1.5"
+}
+{
+Gewicht:"0.01"
+}
+{
+HP:"80"
+}
+{
+Schadensverminderung:"4W10"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Sie sind noch gefährlicher als ihre Vorentwicklung und können sich gelegentlich teleportieren. Berührungen mit der Kreatur können fatal sein."
+}
+{
+Attacken:"Sieh-Nicht-Her (5W8 HP), Teleport (- HP), Todesfluch (2W10 HP), Verdunkeln (- HP)"
+}
+{
+Nummer:"159"
+}

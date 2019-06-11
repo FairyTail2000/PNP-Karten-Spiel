@@ -1,0 +1,36 @@
+{
+Name:"Death Fish"
+}
+{
+Rang:"0US6"
+}
+{
+Rang_zahl:"6"
+}
+{
+Typen:"Finsternis, Wasser"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"0.05"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Tiefe Ozeane"
+}
+{
+Beschreibung:"Death Fish sind mehr Gräte als Fisch. Dennoch können sie schwimmen und greifen ihre Beute gern mit ihrem Maul an."
+}
+{
+Attacken:"Biss (3W4 HP), Ersticken (2W6 HP), Gänsehaut (2W6 HP)"
+}
+{
+Nummer:"32"
+}

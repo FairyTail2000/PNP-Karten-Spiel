@@ -1,0 +1,36 @@
+{
+Name:"Eyedorboss"
+}
+{
+Rang:"4US8"
+}
+{
+Rang_zahl:"48"
+}
+{
+Typen:"Psycho, Schwebe"
+}
+{
+Größe:"1.2"
+}
+{
+Gewicht:"15"
+}
+{
+HP:"40"
+}
+{
+Schadensverminderung:"3W6"
+}
+{
+Habitat:"Dunkle Wälder"
+}
+{
+Beschreibung:"Es ist stacheliger und ungehobelter als seine Vorgänger, was es zu einer Gefahr macht. Aber keine Sorge, sie sind eigentlich nicht so aggressiv, nur manchmal etwas kompliziert."
+}
+{
+Attacken:"Gedankenkontrolle (- HP), Nadelgewehr (8W4 HP), Schwanzhieb (3W6 HP), Stachelregen (6W6 HP)"
+}
+{
+Nummer:"52"
+}

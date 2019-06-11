@@ -1,0 +1,33 @@
+{
+Name:"Killer-Schatten"
+}
+{
+Rang:"9US4"
+}
+{
+Typen:"Finsternis, Geist, Schwebe"
+}
+{
+Größe:"2.5"
+}
+{
+Gewicht:"0.04"
+}
+{
+HP:"80"
+}
+{
+Schadensverminderung:"3W12"
+}
+{
+Habitat:"Nachts in Häusern"
+}
+{
+Beschreibung:"Sie sind unter anderem die gefährlichsten Kreaturen der Dunkelheit. Sie suchen Leute im Schlaf heim und stehlen deren Träume und Erinnerungen, um diese gegen ihr Ziel einzusetzen."
+}
+{
+Attacken:"Hypnose (- HP), Schlaffluch (- HP), Sieh-Nicht-Her (5W8 HP), Verzehren (2W20 HP)"
+}
+{
+Nummer:"103"
+}

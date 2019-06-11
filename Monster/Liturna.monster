@@ -1,0 +1,36 @@
+{
+Name:"Liturna"
+}
+{
+Rang:"3US1"
+}
+{
+Rang_zahl:"31"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"1.6"
+}
+{
+Gewicht:"12"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"2W6"
+}
+{
+Habitat:"Weideflächen"
+}
+{
+Beschreibung:"Liturna hüpft gern umher. Zudem erleuchtet es mit seinem glühenden Orb die Umgebung. Zu schade, dass es ohne Augen nichts sehen kann."
+}
+{
+Attacken:"Bohrer (3W4 HP), Kopfnuss (2W6 HP), Schleuder (1W4+1W12 HP)"
+}
+{
+Nummer:"121"
+}

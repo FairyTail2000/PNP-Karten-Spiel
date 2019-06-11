@@ -1,0 +1,33 @@
+{
+Name:"Schlukul-Boss"
+}
+{
+Rang:"4US3"
+}
+{
+Typen:"Chemie, Gift"
+}
+{
+Größe:"3.5"
+}
+{
+Gewicht:"155"
+}
+{
+HP:"40"
+}
+{
+Schadensverminderung:"3W8"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Es ist ein toxischer Cocktail, der vermutlich das Leben eines Planeten vernichten könnte. Zum Glück sind sie sehr langsam und nicht interessiert an Kämpfen."
+}
+{
+Attacken:"Allergischer Schock (4W8 HP), Farbklekse (- HP), Knaller (2W4 HP), Toxischer Schock (3W4 HP), Verdauen (4W10 HP)"
+}
+{
+Nummer:"166"
+}

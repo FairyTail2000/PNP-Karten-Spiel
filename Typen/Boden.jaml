@@ -1,0 +1,9 @@
+{
+double_damage:"Feuer,Flug,Schwebe"
+}
+{
+half_damage:"Finsternis,Magie,Wasser,Metall"
+}
+{
+no_damage:"Geist"
+}

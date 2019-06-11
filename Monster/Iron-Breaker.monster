@@ -1,0 +1,36 @@
+{
+Name:"Iron-Breaker"
+}
+{
+Rang:"8US3"
+}
+{
+Rang_zahl:"83"
+}
+{
+Typen:"Metall, Schwebe"
+}
+{
+Größe:"2.5"
+}
+{
+Gewicht:"15"
+}
+{
+HP:"60"
+}
+{
+Schadensverminderung:"4W8"
+}
+{
+Habitat:"Verlassene Gebäude"
+}
+{
+Beschreibung:"Sie besitzen vier lange rotierende Ketten mit je einer Kristallklinge, die selbst Gestein zersägt. Sie lieben es Metall zu sammeln, um sich selbst zu reparieren."
+}
+{
+Attacken:"Bohrer (3W4 HP), Kreisklinge (2W6 HP), Metallmahlzeit (4W10 HP), Schnitt (3W10 HP), Sägeblatt (3W4 HP)"
+}
+{
+Nummer:"100"
+}

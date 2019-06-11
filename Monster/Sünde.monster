@@ -1,0 +1,36 @@
+{
+Name:"Sünde"
+}
+{
+Rang:"0K-/9US"
+}
+{
+Rang_zahl:"390"
+}
+{
+Typen:"Magie"
+}
+{
+Größe:"0.9"
+}
+{
+Gewicht:"0.5"
+}
+{
+HP:"200"
+}
+{
+Schadensverminderung:"3W20"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Sünde ist eines der 4 S. Es kommt als Zweites, um Leuten zu zeigen, was sie in ihrer Vergangenheit für Schandtaten vollzogen haben."
+}
+{
+Attacken:"Fluch (- HP), Gedankenkontrolle (- HP), Glücklicher Treffer (- HP), Schlaffluch (- HP), Todesfluch (2W10 HP), Todeshauch (1W4+8 HP)"
+}
+{
+Nummer:"194"
+}

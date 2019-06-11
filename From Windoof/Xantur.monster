@@ -1,0 +1,33 @@
+{
+Name:"Xantur"
+}
+{
+Rang:"US4"
+}
+{
+Typen:"Gestein"
+}
+{
+Größe:"0.4"
+}
+{
+Gewicht:"80"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"2W8"
+}
+{
+Habitat:"Höhlen"
+}
+{
+Beschreibung:"Sie sind unförmig, aber stabil. Durch ihre Panzerung zu dringen erfordert viel Kraft."
+}
+{
+Attacken:"Kieselregen (8W4 HP), Rammen (2W4 HP), Schleuder (1W4+1W12 HP)"
+}
+{
+Nummer:"221"
+}

@@ -1,0 +1,36 @@
+{
+Name:"Buggle"
+}
+{
+Rang:"0US1"
+}
+{
+Rang_zahl:"1"
+}
+{
+Typen:"Insekt, Parasit"
+}
+{
+Größe:"0.02"
+}
+{
+Gewicht:"0.002"
+}
+{
+HP:"3"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Nahezu überall"
+}
+{
+Beschreibung:"Buggle sind kleine parasitäre Käfer, die sich manchmal in Körpern einnisten. In seltenen Fällen kann das für Komplikationen sorgen."
+}
+{
+Attacken:"Entfliehen (- HP), Pikser (1W2 HP)"
+}
+{
+Nummer:"28"
+}

@@ -1,0 +1,36 @@
+{
+Name:"Quottra"
+}
+{
+Rang:"US5"
+}
+{
+Rang_zahl:"15"
+}
+{
+Typen:"Laser, Wasser"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"1"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W8"
+}
+{
+Habitat:"Im Wasser in Strandnähe, Riffs"
+}
+{
+Beschreibung:"Dieses quallenähnliche Monster lebt im Wasser und kann einem dort mit Lasern den Weg weisen. Warum es sowas besitzt? Irgendwie muss man ja jagen gehen können."
+}
+{
+Attacken:"Laserstrahl (4W8 HP), Wasserstrahl (3W8 HP)"
+}
+{
+Nummer:"151"
+}

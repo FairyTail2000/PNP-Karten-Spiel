@@ -1,0 +1,36 @@
+{
+Name:"Trilly"
+}
+{
+Rang:"0US1"
+}
+{
+Rang_zahl:"1"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"0.03"
+}
+{
+Gewicht:"0.005"
+}
+{
+HP:"1"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"In Kellern, Kanalisation"
+}
+{
+Beschreibung:"Eines Tages will Trilly auch mal groß sein und dann wissen, wie Schuhe von oben aussehen. Vielleicht kann er dann sogar welche tragen. Spoiler: Nein."
+}
+{
+Attacken:"Happen (1W4 HP), Pikser (1W2 HP)"
+}
+{
+Nummer:"199"
+}

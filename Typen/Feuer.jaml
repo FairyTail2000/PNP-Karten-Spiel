@@ -1,0 +1,9 @@
+{
+double_damage:"Eis,Finsternis,Geist,Insekt,Metall,Parasit,Pflanze"
+}
+{
+half_damage:"Boden,Gestein,Laser,Wasser"
+}
+{
+no_damage:" "
+}

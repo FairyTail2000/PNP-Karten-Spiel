@@ -1,0 +1,36 @@
+{
+Name:"Rock"
+}
+{
+Rang:"2US9"
+}
+{
+Rang_zahl:"29"
+}
+{
+Typen:"Gestein"
+}
+{
+Größe:"1"
+}
+{
+Gewicht:"220"
+}
+{
+HP:"40"
+}
+{
+Schadensverminderung:"3W8"
+}
+{
+Habitat:"Gebirge"
+}
+{
+Beschreibung:"Sie sind massive Felsen, die gern Dinge zerstampfen. Man findet oft quadratische Abdrücke im Boden, was dann bereits auf Rocks hindeutet."
+}
+{
+Attacken:"Stachelregen (6W6 HP), Stachelsteine (2W8 HP), Stampfer (4W10 HP)"
+}
+{
+Nummer:"154"
+}

@@ -1,0 +1,36 @@
+{
+Name:"Xectror"
+}
+{
+Rang:"3US2"
+}
+{
+Rang_zahl:"32"
+}
+{
+Typen:"Gestein"
+}
+{
+Größe:"0.4"
+}
+{
+Gewicht:"90"
+}
+{
+HP:"25"
+}
+{
+Schadensverminderung:"3W6"
+}
+{
+Habitat:"Höhlen, Gebirge"
+}
+{
+Beschreibung:"Es ist stabil, stachelig und stilvoll. Es bewegt sich, indem es seine Felsstruktur anders anordnet."
+}
+{
+Attacken:"Kantenschlag (2W6 HP), Kieselregen (8W4 HP), Stachelregen (6W6 HP), Stachelsteine (2W8 HP)"
+}
+{
+Nummer:"222"
+}

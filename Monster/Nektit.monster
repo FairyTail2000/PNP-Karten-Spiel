@@ -1,0 +1,36 @@
+{
+Name:"Nektit"
+}
+{
+Rang:"6US3"
+}
+{
+Rang_zahl:"63"
+}
+{
+Typen:"Magie, Schwebe"
+}
+{
+Größe:"2.2"
+}
+{
+Gewicht:"85"
+}
+{
+HP:"50"
+}
+{
+Schadensverminderung:"3W8+1W4"
+}
+{
+Habitat:"Kalte Höhlen"
+}
+{
+Beschreibung:"Sie gehören zu den starken magischen Monstern. Nektit kann selbst Klingen erschaffen und dann sehr schnell auf Gegner schießen."
+}
+{
+Attacken:"Druckwelle (5W12 HP), Fräse (3W10 HP), Kreisklinge (2W6 HP), Sägeblatt (3W4 HP)"
+}
+{
+Nummer:"136"
+}

@@ -1,0 +1,36 @@
+{
+Name:"Wunschpilz"
+}
+{
+Rang:"3US"
+}
+{
+Rang_zahl:"30"
+}
+{
+Typen:"Boden, Pflanze"
+}
+{
+Größe:"0.25"
+}
+{
+Gewicht:"1"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W8"
+}
+{
+Habitat:"Wälder"
+}
+{
+Beschreibung:"Der Wunschpilz kann keine Wünsche erfüllen, wie sein Name vermuten lässt. Er wünscht sich nur, dass er auch zu der Pilzly-Familie gehören darf."
+}
+{
+Attacken:"Erdwall (- HP), Rammen (2W4 HP), Wachsen (- HP)"
+}
+{
+Nummer:"217"
+}

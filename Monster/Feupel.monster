@@ -1,0 +1,36 @@
+{
+Name:"Feupel"
+}
+{
+Rang:"0US4"
+}
+{
+Rang_zahl:"4"
+}
+{
+Typen:"Feuer"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"4"
+}
+{
+HP:"6"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Wüsten"
+}
+{
+Beschreibung:"Dieser Pilz ist so scharf, dass er wirklich brennt. Man sollte also aufpassen, wenn man Pilzsammler ist."
+}
+{
+Attacken:"Entzünden (2W6 HP), Kopfnuss (2W6 HP), Schieben (2W4 HP)"
+}
+{
+Nummer:"57"
+}

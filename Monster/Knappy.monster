@@ -1,0 +1,36 @@
+{
+Name:"Knappy"
+}
+{
+Rang:"0US6"
+}
+{
+Rang_zahl:"6"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"0.15"
+}
+{
+Gewicht:"0.8"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W6"
+}
+{
+Habitat:"Nadelwälder"
+}
+{
+Beschreibung:"Sie sind etwas unabhängiger als ihre Vorentwicklung, sie sind aber dennoch sehr zutraulich. Sie lieben die Gesellschaft anderer und klammern sich gern an Freunde."
+}
+{
+Attacken:"Biss (3W4 HP), Pürieren (1W4 HP), Rammen (2W4 HP)"
+}
+{
+Nummer:"111"
+}

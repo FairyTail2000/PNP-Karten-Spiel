@@ -1,0 +1,33 @@
+{
+Name:"Schattentot-Zerquetscher"
+}
+{
+Rang:"2US8"
+}
+{
+Typen:"Normal, Psycho"
+}
+{
+Größe:"0.8"
+}
+{
+Gewicht:"80"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"2W10"
+}
+{
+Habitat:"In der Nähe von Schattentoten"
+}
+{
+Beschreibung:"Sie hassen Schattentote aller Art wie die Pest. Wenn sie diese Angreifen, machen sie immer doppelten Schaden. Auch wenn er immer grimmig aussieht, ist er eigentlich ein humorvoller Kumpel."
+}
+{
+Attacken:"Rammen (2W4 HP), Stampfer (4W10 HP)"
+}
+{
+Nummer:"160"
+}

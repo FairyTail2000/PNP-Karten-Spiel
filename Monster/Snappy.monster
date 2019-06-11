@@ -1,0 +1,36 @@
+{
+Name:"Snappy"
+}
+{
+Rang:"0US3"
+}
+{
+Rang_zahl:"3"
+}
+{
+Typen:"Insekt"
+}
+{
+Größe:"0.07"
+}
+{
+Gewicht:"0.007"
+}
+{
+HP:"2"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Waldböden"
+}
+{
+Beschreibung:"Sie sind kleine Käfer mit einem Scherengebiss. Damit können sie hervorragend Dinge festhalten."
+}
+{
+Attacken:"Happen (1W4 HP), Pikser (1W2 HP)"
+}
+{
+Nummer:"179"
+}

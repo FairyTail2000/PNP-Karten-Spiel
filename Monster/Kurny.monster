@@ -1,0 +1,36 @@
+{
+Name:"Kurny"
+}
+{
+Rang:"0US4"
+}
+{
+Rang_zahl:"4"
+}
+{
+Typen:"Pflanze"
+}
+{
+Größe:"0.05"
+}
+{
+Gewicht:"0.07"
+}
+{
+HP:"5"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Weideflächen"
+}
+{
+Beschreibung:"Dieses kleine Körnchen will nur etwas Sonnenlicht, um zu wachsen. Die meiste Zeit ist es traurig, da es einfach kaum wächst."
+}
+{
+Attacken:"Photonenstrahl (1W4 HP), Wachsen (- HP), Wurzeln (- HP)"
+}
+{
+Nummer:"118"
+}

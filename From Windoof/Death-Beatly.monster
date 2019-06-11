@@ -1,0 +1,33 @@
+{
+Name:"Death-Beatly"
+}
+{
+Rang:"US5"
+}
+{
+Typen:"Insekt"
+}
+{
+Größe:"0.45"
+}
+{
+Gewicht:"1.5"
+}
+{
+HP:"12"
+}
+{
+Schadensverminderung:"2W6"
+}
+{
+Habitat:"Dichte Wälder"
+}
+{
+Beschreibung:"Sie sind große und gefährliche Käfer, die Wände, Türen, Bäume und Tische zersägen können. Hauptsache irgendwas aus Holz."
+}
+{
+Attacken:"Biss (3W4 HP), Fräse (3W10 HP), Kreisklinge (2W6 HP), Sägeblatt (3W4 HP)"
+}
+{
+Nummer:"30"
+}

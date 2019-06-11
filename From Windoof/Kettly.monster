@@ -1,0 +1,33 @@
+{
+Name:"Kettly"
+}
+{
+Rang:"3US4"
+}
+{
+Typen:"Normal, Schwebe"
+}
+{
+Größe:"1"
+}
+{
+Gewicht:"9"
+}
+{
+HP:"25"
+}
+{
+Schadensverminderung:"1W6+1W8"
+}
+{
+Habitat:"Weideflächen, Wälder, Parks"
+}
+{
+Beschreibung:"Es ist eines der beiden ersten Monster. Sie sind friedliebend, können die aber eine Akkupunktur verpassen, wenn du darauf bestehst."
+}
+{
+Attacken:"Nadelgewehr (8W4 HP), Rammen (2W4 HP), Schnitt (3W10 HP), Stachelregen (6W6 HP)"
+}
+{
+Nummer:"102"
+}

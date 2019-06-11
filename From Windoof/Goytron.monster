@@ -1,0 +1,33 @@
+{
+Name:"Goytron"
+}
+{
+Rang:"3US6"
+}
+{
+Typen:"Elektro, Metall"
+}
+{
+Größe:"0.8"
+}
+{
+Gewicht:"25"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"3W6"
+}
+{
+Habitat:"Wälder in der Nähe von Städten"
+}
+{
+Beschreibung:"Sie lieben es Wesen zu manipulieren. Manchmal klappt das auch bei Monstern. Zumindest glaubt er das beides. Möglicherweise ist seine Datenverarbeitung auch einfach nur etwas langsam."
+}
+{
+Attacken:"Aufladen (- HP), Elektrostoß (3W8 HP), Kopfnuss (2W6 HP), Übersetzungsfehler (- HP)"
+}
+{
+Nummer:"86"
+}

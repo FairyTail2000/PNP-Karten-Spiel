@@ -1,0 +1,33 @@
+{
+Name:"Knapp"
+}
+{
+Rang:"0US2"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"0.03"
+}
+{
+Gewicht:"0.08"
+}
+{
+HP:"5"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Wälder mit viel Gestrüpp"
+}
+{
+Beschreibung:"Sie mögen es, wenn man ihnen ein Finger hinstreckt, an dem sie sich klammern können. Von oben kann man halt alles viel besser überblicken."
+}
+{
+Attacken:"Happen (1W4 HP), Pikser (1W2 HP), Schieben (2W4 HP), Spucken (1W4 HP)"
+}
+{
+Nummer:"108"
+}

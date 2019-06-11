@@ -1,0 +1,33 @@
+{
+Name:"Hard-Bomb"
+}
+{
+Rang:"2US"
+}
+{
+Typen:"Chemie"
+}
+{
+Größe:"0.1"
+}
+{
+Gewicht:"2"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W12"
+}
+{
+Habitat:"Städte"
+}
+{
+Beschreibung:"Sie sind in der Lage sich fortzubewegen und suchen Feuer. Sobald sie dieses finden explodieren sie und lassen dabei neue Babies los."
+}
+{
+Attacken:"Abgang mit Stil (5W6 HP), Ansehen (- HP), Explosion (10W10 HP)"
+}
+{
+Nummer:"90"
+}

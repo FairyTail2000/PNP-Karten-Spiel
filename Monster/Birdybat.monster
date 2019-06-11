@@ -1,0 +1,36 @@
+{
+Name:"Birdybat"
+}
+{
+Rang:"0US9"
+}
+{
+Rang_zahl:"9"
+}
+{
+Typen:"Flug, Normal"
+}
+{
+Größe:"0.15"
+}
+{
+Gewicht:"0.15"
+}
+{
+HP:"15"
+}
+{
+Schadensverminderung:"1W6"
+}
+{
+Habitat:"Dachböden, Friedhöfe,  Kirchen"
+}
+{
+Beschreibung:"Birdybat sind fliegende Raubtiere, die sich meist in der Dämmerung oder Morgenröte zeigen. Sie sind friedlich und greifen Leute eher selten an."
+}
+{
+Attacken:"Biss (3W4 HP), Schieben (2W4 HP)"
+}
+{
+Nummer:"16"
+}

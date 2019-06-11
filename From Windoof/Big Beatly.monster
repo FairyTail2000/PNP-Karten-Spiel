@@ -1,0 +1,33 @@
+{
+Name:"Big Beatly"
+}
+{
+Rang:"0US9"
+}
+{
+Typen:"Boden, Insekt"
+}
+{
+Größe:"0.12"
+}
+{
+Gewicht:"0.08"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"2W4"
+}
+{
+Habitat:"Wälder, ältere Dörfer, Wiesen"
+}
+{
+Beschreibung:"Big Beatly sind etwas unangenehme Käfer, die sich gern an Möbel und Häuserfassaden machen, um dort Material für ihren Bau zu sammeln. Davon abgesehen sind sie nützliche und friedliche Kreaturen. Man sollte sie dennoch nicht anfassen, da sie recht scharfe Werkzeuge besitzen."
+}
+{
+Attacken:"Biss (3W4 HP), Kreisklinge (2W6 HP), Sägeblatt (3W4 HP)"
+}
+{
+Nummer:"9"
+}

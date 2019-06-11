@@ -1,0 +1,9 @@
+{
+double_damage:"Insekt,Parasit"
+}
+{
+half_damage:"Flug,Unsichtbar"
+}
+{
+no_damage:"Geist"
+}

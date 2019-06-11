@@ -1,0 +1,9 @@
+{
+double_damage:"Insekt,Pflanze,Schwebe"
+}
+{
+half_damage:"Magie,Psycho,Unsichtbar"
+}
+{
+no_damage:"Insekt"
+}

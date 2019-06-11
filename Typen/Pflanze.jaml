@@ -1,0 +1,9 @@
+{
+double_damage:"Gestein,Wasser"
+}
+{
+half_damage:"Chemie,Eis,Feuer,Gift,Metall"
+}
+{
+no_damage:"Geist"
+}

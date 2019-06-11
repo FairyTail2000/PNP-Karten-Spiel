@@ -1,0 +1,36 @@
+{
+Name:"Gift Zecke"
+}
+{
+Rang:"US3"
+}
+{
+Rang_zahl:"13"
+}
+{
+Typen:"Gift, Insekt, Parasit"
+}
+{
+Größe:"0.03"
+}
+{
+Gewicht:"0.005"
+}
+{
+HP:"8"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Trockene Wälder"
+}
+{
+Beschreibung:"Diese nervigen Biester sorgen immer wieder für Entzündungen, was viele dazu treibt, sie zu töten. Zwar sind sie eigentlich sehr nützlich, aber irgendwie haben sie es verdient zu sterben, wenn sie unbedingt fein Blutsaugen gehen müssen."
+}
+{
+Attacken:"Biss (3W4 HP), Giftpikser (1W2 HP), Sepsis (1W4 HP)"
+}
+{
+Nummer:"77"
+}

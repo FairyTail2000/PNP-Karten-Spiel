@@ -1,0 +1,33 @@
+{
+Name:"Fischli"
+}
+{
+Rang:"0US1"
+}
+{
+Typen:"Wasser"
+}
+{
+Größe:"0.1"
+}
+{
+Gewicht:"0.3"
+}
+{
+HP:"5"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Stehende Süß- und Salzwässer"
+}
+{
+Beschreibung:"Leise schwimmen sie in Schwärmen, um zumindest einem Teil des Schwarms das Überleben zu sichern. Für den Schwarm!"
+}
+{
+Attacken:"Happen (1W4 HP), Schieben (2W4 HP), Wasserspiel (- HP)"
+}
+{
+Nummer:"61"
+}

@@ -1,0 +1,36 @@
+{
+Name:"Beatly"
+}
+{
+Rang:"0US4"
+}
+{
+Rang_zahl:"4"
+}
+{
+Typen:"Boden, Insekt"
+}
+{
+Größe:"0.02"
+}
+{
+Gewicht:"0.01"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Wälder, Wiesen, Vorstadtgebiete"
+}
+{
+Beschreibung:"Beatly sind absolut harmlose Käfer, die aber ausgesprochen nützlich sind, indem sie abgestorbenes, pflanzliches Material sammeln und mit ihrem Speichel in seine Einzelteile auftrennen."
+}
+{
+Attacken:"Biss (3W4 HP), Spucken (1W4 HP), Säure (2W4 HP)"
+}
+{
+Nummer:"8"
+}

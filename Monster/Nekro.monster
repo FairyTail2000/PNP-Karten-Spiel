@@ -1,0 +1,36 @@
+{
+Name:"Nekro"
+}
+{
+Rang:"0US2"
+}
+{
+Rang_zahl:"2"
+}
+{
+Typen:"Boden, Pflanze"
+}
+{
+Größe:"0.5"
+}
+{
+Gewicht:"64"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Wälder"
+}
+{
+Beschreibung:"Es wiegt zwar viel und hält etwas aus, aber es ist auch sehr unbeweglich. Dennoch! Nimm dich in Acht vor seinen Stampfattacken."
+}
+{
+Attacken:"Grube (2W6 HP), Verhärten (- HP), Wachsen (- HP)"
+}
+{
+Nummer:"135"
+}

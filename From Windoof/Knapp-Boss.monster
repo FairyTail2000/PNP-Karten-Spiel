@@ -1,0 +1,33 @@
+{
+Name:"Knapp-Boss"
+}
+{
+Rang:"US9"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"2"
+}
+{
+Gewicht:"35"
+}
+{
+HP:"40"
+}
+{
+Schadensverminderung:"2W12"
+}
+{
+Habitat:"Nadelwälder"
+}
+{
+Beschreibung:"Zwar sieht er gefährlich aus und besitzt schweres Geschütz, dennoch ist er eher friedlich. Lass es in Ruhe und es bleibt zufrieden."
+}
+{
+Attacken:"Bohrer (3W4 HP), Entzünden (2W6 HP), Laserstrahl (4W8 HP)"
+}
+{
+Nummer:"109"
+}

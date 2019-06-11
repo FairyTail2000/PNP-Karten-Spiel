@@ -1,0 +1,36 @@
+{
+Name:"Fly"
+}
+{
+Rang:"0US4"
+}
+{
+Rang_zahl:"4"
+}
+{
+Typen:"Flug, Insekt"
+}
+{
+Größe:"0.02"
+}
+{
+Gewicht:"0.008"
+}
+{
+HP:"5"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Weideflächen, Städte"
+}
+{
+Beschreibung:"Diese kleinen Fliegen sind eher niedlich als furchteinflößend. Dennoch können sie mit ihrer aufdringlichen Art verdammt nerven."
+}
+{
+Attacken:"Pikser (1W2 HP), Schieben (2W4 HP), Säure (2W4 HP)"
+}
+{
+Nummer:"67"
+}

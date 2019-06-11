@@ -1,0 +1,33 @@
+{
+Name:"Bohrum"
+}
+{
+Rang:"US3"
+}
+{
+Typen:"Boden, Gestein"
+}
+{
+Größe:"0.35"
+}
+{
+Gewicht:"5"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"2W4"
+}
+{
+Habitat:"Nadelwälder, Höhlen"
+}
+{
+Beschreibung:"Auf der Suche nach kleinen Tieren, kann man es oft in Wäldern und Höhlen antreffen. Es ist friedlich und interessiert sich nicht für andere Lebewesen, die es nicht fressen kann. Bei Gefahr kann es sich sehr schnell drehen und auch in härtere Böden eingraben. Er sollte jedoch nicht härter als Sandstein sein."
+}
+{
+Attacken:"Bohrer (3W4 HP), Kantenschlag (2W6 HP), Tunnel (- HP)"
+}
+{
+Nummer:"18"
+}

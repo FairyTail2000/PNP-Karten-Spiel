@@ -1,0 +1,36 @@
+{
+Name:"Krakto"
+}
+{
+Rang:"0US9"
+}
+{
+Rang_zahl:"9"
+}
+{
+Typen:"Gift, Wasser"
+}
+{
+Größe:"0.7"
+}
+{
+Gewicht:"15"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W6"
+}
+{
+Habitat:"Tiefe Meere"
+}
+{
+Beschreibung:"Sie sind Kraken, die mit giftiger Tinte schießen, um ihre Beute erblinden zu lassen. Dadurch ist es ein Leichtes ihre Opfer zu fangen."
+}
+{
+Attacken:"Farbklekse (- HP), Giftpikser (1W2 HP), Wasserspiel (- HP), Wasserstrahl (3W8 HP)"
+}
+{
+Nummer:"115"
+}

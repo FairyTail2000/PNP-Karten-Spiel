@@ -1,0 +1,36 @@
+{
+Name:"Wutalis"
+}
+{
+Rang:"2US5"
+}
+{
+Rang_zahl:"25"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"1.5"
+}
+{
+Gewicht:"20"
+}
+{
+HP:"30"
+}
+{
+Schadensverminderung:"2W8+1W4"
+}
+{
+Habitat:"Weideflächen, Waldränder"
+}
+{
+Beschreibung:"Je mehr Wutalis angegriffen wird, desto wütender und stärker wird es. Wenn man es in Rage in Ruhe lässt, schläft es ein oder geht K.O. nach einiger Zeit."
+}
+{
+Attacken:"Biss (3W4 HP), Hass (- HP), Quetschen (4W8 HP), Rage (- HP)"
+}
+{
+Nummer:"219"
+}

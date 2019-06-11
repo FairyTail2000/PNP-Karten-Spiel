@@ -1,0 +1,33 @@
+{
+Name:"Schnapp-Käfer"
+}
+{
+Rang:"0US9"
+}
+{
+Typen:"Insekt"
+}
+{
+Größe:"0.05"
+}
+{
+Gewicht:"0.003"
+}
+{
+HP:"5"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Wälder, Waldränder"
+}
+{
+Beschreibung:"Diese kleinen Biester zwicken gern und das auch noch viel. Nimm dich in Acht!"
+}
+{
+Attacken:"Pikser (1W2 HP), Spucken (1W4 HP)"
+}
+{
+Nummer:"170"
+}

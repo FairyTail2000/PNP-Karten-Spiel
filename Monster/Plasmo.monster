@@ -1,0 +1,36 @@
+{
+Name:"Plasmo"
+}
+{
+Rang:"0US4"
+}
+{
+Rang_zahl:"4"
+}
+{
+Typen:"Elektro"
+}
+{
+Größe:"0.8"
+}
+{
+Gewicht:"12"
+}
+{
+HP:"5"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Unbewachsene Gebirge"
+}
+{
+Beschreibung:"Sie rotieren schnell und verschießen dabei gelegentlich unkontrolliert Blitze. Besser als andere Geschosse..."
+}
+{
+Attacken:"Anzapfen (- HP), Sprint (- HP), Zündfunke (1W6 HP)"
+}
+{
+Nummer:"143"
+}

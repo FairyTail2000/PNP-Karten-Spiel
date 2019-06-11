@@ -1,0 +1,33 @@
+{
+Name:"TV-Monster"
+}
+{
+Rang:"3US2"
+}
+{
+Typen:"Magie, Metall"
+}
+{
+Größe:"0.7"
+}
+{
+Gewicht:"20"
+}
+{
+HP:"20"
+}
+{
+Schadensverminderung:"2W8"
+}
+{
+Habitat:"In Bildschirmen"
+}
+{
+Beschreibung:"Wenn deine Bildschirme seltsame Dinge tun, dann ist das vermutlich die Schuld eines TV-Monsters."
+}
+{
+Attacken:"Cartoonisieren (- HP), Datenpüree (- HP), Durchbrennen (4W10 HP), Farbklekse (- HP)"
+}
+{
+Nummer:"202"
+}

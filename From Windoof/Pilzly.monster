@@ -1,0 +1,33 @@
+{
+Name:"Pilzly"
+}
+{
+Rang:"0US2"
+}
+{
+Typen:"Boden, Pflanze"
+}
+{
+Größe:"0.07"
+}
+{
+Gewicht:"0.02"
+}
+{
+HP:"3"
+}
+{
+Schadensverminderung:"1W2"
+}
+{
+Habitat:"Wälder"
+}
+{
+Beschreibung:"Sie wandern umher und suchen nach Nährstoffen. All das, um eines Tages so groß zu sein, dass sie nicht übersehen werden können."
+}
+{
+Attacken:"Pikser (1W2 HP), Schieben (2W4 HP), Wachsen (- HP)"
+}
+{
+Nummer:"141"
+}

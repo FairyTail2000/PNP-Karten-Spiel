@@ -1,0 +1,33 @@
+{
+Name:"Hole"
+}
+{
+Rang:"5US"
+}
+{
+Typen:"Finsternis"
+}
+{
+Größe:"3"
+}
+{
+Gewicht:"0.001"
+}
+{
+HP:"60"
+}
+{
+Schadensverminderung:"4W8"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Sie verschlingen fast alles, was in sie hinein passt. Wenn sie dann irgendwann satt sind, sterben sie."
+}
+{
+Attacken:"Druckwelle (5W12 HP), Todeshauch (1W4+8 HP), Verstrahlen (1W20 HP)"
+}
+{
+Nummer:"92"
+}

@@ -1,0 +1,33 @@
+{
+Name:"Änderungsmonster 2"
+}
+{
+Rang:"0O-/5US5"
+}
+{
+Typen:"Magie, Normal"
+}
+{
+Größe:"0.2"
+}
+{
+Gewicht:"2.5"
+}
+{
+HP:"120"
+}
+{
+Schadensverminderung:"2W8"
+}
+{
+Habitat:"Gemäßigte Wiesen"
+}
+{
+Beschreibung:"Das Änderungsmonster 2 ist ein potentiell gefährliches Monster. Es ist normalerweise klein, ruhig und frisst totes, organisches Material. Wenn es stark bedroht wird, kann es sein Gestalt in eine 5 Meter große Kreatur ändern und frisst alles, was ihm in die Quere kommt. Es wiegt dann circa 380kg."
+}
+{
+Attacken:"Biss (3W4 HP), Seitenhieb (4W8 HP), Stampfer (4W10 HP), Verdauen (4W10 HP), Zermalmen (6W12 HP)"
+}
+{
+Nummer:"4"
+}

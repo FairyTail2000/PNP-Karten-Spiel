@@ -1,0 +1,36 @@
+{
+Name:"Verdamnis"
+}
+{
+Rang:"0E-/5US"
+}
+{
+Rang_zahl:"450"
+}
+{
+Typen:"Magie"
+}
+{
+Größe:"1.1"
+}
+{
+Gewicht:"0.05"
+}
+{
+HP:"200"
+}
+{
+Schadensverminderung:"3W20"
+}
+{
+Habitat:"Unbekannt"
+}
+{
+Beschreibung:"Verdamnis kann seine Opfer bei Belieben in einem magischen Käfig gefangen halten. Das macht es, um dies Beute dann zu verspeisen. Es ist das Dritte der 3 V."
+}
+{
+Attacken:"Gänsehaut (2W6 HP), Schlaffluch (- HP), Sieh-Nicht-Her (5W8 HP), Verbot (- HP), Übersetzungsfehler (- HP)"
+}
+{
+Nummer:"206"
+}

@@ -1,0 +1,36 @@
+{
+Name:"Exad"
+}
+{
+Rang:"0US8"
+}
+{
+Rang_zahl:"8"
+}
+{
+Typen:"Normal"
+}
+{
+Größe:"1.5"
+}
+{
+Gewicht:"7"
+}
+{
+HP:"10"
+}
+{
+Schadensverminderung:"1W4"
+}
+{
+Habitat:"Wiesen, Wälder"
+}
+{
+Beschreibung:"Es hüpft einfach immer und kann so von oben die Welt betrachten. Das liebt es. Manchmal ist es so erschöpft, dass es das nicht mehr kann. Dadurch verfällt es oft in Trauerzustände."
+}
+{
+Attacken:"Kopfnuss (2W6 HP), Rammen (2W4 HP), Schwanzhieb (3W6 HP)"
+}
+{
+Nummer:"50"
+}

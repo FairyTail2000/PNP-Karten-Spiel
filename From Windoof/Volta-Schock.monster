@@ -1,0 +1,33 @@
+{
+Name:"Volta-Schock"
+}
+{
+Rang:"9US3"
+}
+{
+Typen:"Elektro, Flug"
+}
+{
+Größe:"1.8"
+}
+{
+Gewicht:"14"
+}
+{
+HP:"80"
+}
+{
+Schadensverminderung:"3W12"
+}
+{
+Habitat:"In Gewitterzellen"
+}
+{
+Beschreibung:"Volta-Schock ist eines der schnellsten Kreaturen am Himmel. Bei Gewitter ist es oft für die Blitze verantwortlich."
+}
+{
+Attacken:"Durchbohren (4W4 HP), Lichtbogen (5W20 HP), Sprint (- HP), Windstoß (2W8 HP), Überladungsstoß (3W12 HP)"
+}
+{
+Nummer:"209"
+}
