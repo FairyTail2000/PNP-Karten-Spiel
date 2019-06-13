@@ -3,6 +3,7 @@ package main;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.NoSuchElementException;
 
 import jamlParser.main.JAMLParser;
 
@@ -51,8 +52,13 @@ public class Monster extends JAMLParser {
 			att[i] = att[i].substring(0, att[i].indexOf("(") - 1).replace(" ", "");
 		}
 		for (String a : att) {
-			Attacke at = Attacken.getAttacke(a);
-			this.attacken.add(at);
+			try {
+				Attacke at = Attacken.getAttacke(a);
+				this.attacken.add(at);
+			
+			} catch (NoSuchElementException e) {
+				System.err.println("Attacke nicht gefunden: " + a + " vom Monster: " + this.getName());
+			}
 		}
 		
 		for (String s : this.getValue("Typen").split(",")) {

@@ -33,6 +33,7 @@ import main.plugin.Actions;
 import main.plugin.EventConstants;
 import main.plugin.FindAndCall;
 import main.plugin.PluginList;
+import main.util.ArrayUtils;
 
 public class Main extends Application {
 	
@@ -122,14 +123,6 @@ public class Main extends Application {
 		return borderpane;
 	}
 	
-	private static boolean isnotin (Object[] array, Object obj) {
-		for (Object o : array) {
-			if (o != null && o.equals(obj)) {
-				return false;
-			}
-		}
-		return true;
-	}
 	
 	private static void TestCases (boolean exit, boolean should_i_do_it) {
 		if (should_i_do_it) {
@@ -182,7 +175,7 @@ public class Main extends Application {
 		enemyMonster = new Monster[6];
 		for (int i = 0; i < 6; i++) {
 			Monster m = parsers.get(r.nextInt(parsers.size()));
-			if (isnotin(myMonster, m)) {
+			if (ArrayUtils.isnotin(myMonster, m)) {
 				myMonster[i] = m;
 			} else {
 				i--;
@@ -192,7 +185,7 @@ public class Main extends Application {
 		
 		for (int i = 0; i < 6; i++) {
 			Monster m = parsers.get(r.nextInt(parsers.size()));
-			if (isnotin(myMonster, m) && isnotin(enemyMonster, m)) {
+			if (ArrayUtils.isnotin(myMonster, m) && ArrayUtils.isnotin(enemyMonster, m)) {
 				enemyMonster[i] = m;
 			} else {
 				i--;

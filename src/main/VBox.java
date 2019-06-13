@@ -165,19 +165,17 @@ public class VBox extends javafx.scene.layout.VBox {
 				if (event.getButton().compareTo(MouseButton.SECONDARY) == 0 && active ) {
 					//Active Monster right click Handler
 					//This feels like a hack, but it work, vs the straight forward method, which does not work
-					Attacke[] attacken = monster.getAttacken().toArray(new Attacke[0]);
+					List<Attacke> attacken = monster.getAttacken();
 					List<Text> boxen = new ArrayList<>();
 					
-					for (int i = 0; i < attacken.length; i++) {
-						if (null == attacken[i]) {
-							System.err.println("Ääähm wtf? " + attacken.length);
+					for (Attacke a : attacken) {
+						if (null == a) {
+							System.err.println("Ääähm wtf? " + attacken.size());
 							System.exit(-1);
 						}
-						Text t = new Text(attacken[i].getName(), 
-								attacken[i].getName(), 
-								attacken[i]);
+						Text t = new Text(a.getName(), a.getName(), a);
 						t.setStroke(Color.WHITE);
-						t.setOnMouseClicked(new HandleAttackClick(attacken[i]));
+						t.setOnMouseClicked(new HandleAttackClick(a));
 						boxen.add(t);
 					}
 					GridPane p = (GridPane) Main.s.lookup("#Bottom");

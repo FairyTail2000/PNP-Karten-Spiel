@@ -1,13 +1,12 @@
 package main.util;
 
 import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Random;
 
 public class ArrayUtils {
 	private static Random r = new Random(System.nanoTime());
 	
+	@SuppressWarnings("unchecked")
 	public static <T> T[] filterZeros (T[] arr, Class<T> clazz) {
 		if (arr == null || containsOnlyNull(arr)) {
 			return null;
@@ -54,5 +53,12 @@ public class ArrayUtils {
 		return false;
 	}
 	
-	
+	public static boolean isnotin (Object[] array, Object obj) {
+		for (Object o : array) {
+			if (o != null && o.equals(obj)) {
+				return false;
+			}
+		}
+		return true;
+	}
 }

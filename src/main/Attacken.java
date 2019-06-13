@@ -2,6 +2,7 @@ package main;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.NoSuchElementException;
 
 public class Attacken {
 	//I don't want to comment the Main class...
@@ -30,12 +31,12 @@ public class Attacken {
 	 * @param name of the Attack
 	 * @return An Instance of the Attack with <code>name</code> or null if not found
 	 */
-	public static Attacke getAttacke (String name) {
+	public static Attacke getAttacke (String name) throws NoSuchElementException{
 		for (Attacke a : attacken) {
-			if (a.getName().equals(name)) {
+			if (a.getName().replaceAll(" ", "").equals(name) || a.getName().equals(name)) {
 				return a;
 			}
 		}
-		return null;
+		throw new NoSuchElementException(name);
 	}
 }

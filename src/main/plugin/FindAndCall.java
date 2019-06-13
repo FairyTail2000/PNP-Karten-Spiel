@@ -26,17 +26,20 @@ public class FindAndCall {
 				return false;
 			}
 		});
-		if (plugins.length == 0) {
+		if (plugins == null || plugins.length == 0) {
 			return;
 		}
 		
 		try {
 			//TODO: alle plugins lesen
 			//TODO: es einfach mal machen
-			ZipClassLoader zipClassLoader = new ZipClassLoader(plugins[0].getAbsolutePath());
-			Class<Plugin_Base> mainPluginClass = (Class<Plugin_Base>) zipClassLoader.loadClass("Plugin");
-			Plugin_Base plugin_instance = mainPluginClass.newInstance();
-			PluginList.addPlugin(plugin_instance);
+			for (int i = 0; i < plugins.length; i++) {
+				ZipClassLoader zipClassLoader = new ZipClassLoader(plugins[i].getAbsolutePath());
+				Class<Plugin_Base> mainPluginClass = (Class<Plugin_Base>) zipClassLoader.loadClass("Plugin");
+				Plugin_Base plugin_instance = mainPluginClass.newInstance();
+				PluginList.addPlugin(plugin_instance);
+			}
+			
 		} catch (IOException e1) {
 			e1.printStackTrace();
 		} catch (ClassNotFoundException e) {

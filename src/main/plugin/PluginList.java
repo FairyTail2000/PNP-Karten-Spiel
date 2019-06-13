@@ -3,12 +3,10 @@ package main.plugin;
 import java.util.ArrayList;
 
 public class PluginList {
-	private static ArrayList<Plugin_Base> pluginList;
-	private static ArrayList<String> pluginNameList;
+	private static ArrayList<Plugin_Base> pluginList = new ArrayList<Plugin_Base>();
+	private static ArrayList<String> pluginNameList = new ArrayList<String>();
 	
 	static {
-		pluginList = new ArrayList<Plugin_Base>();
-		pluginNameList = new ArrayList<String>();
 		Runtime.getRuntime().addShutdownHook(new Thread(new Runnable() {
 			@Override
 			public void run() {
@@ -20,6 +18,9 @@ public class PluginList {
 	}
 	
 	public static void addPlugin (Plugin_Base p) {
+		if (p == null) {
+			return;
+		}
 		p.onLoad();
 		pluginList.add(p);
 		pluginNameList.add(p.getPluginName());
@@ -27,6 +28,10 @@ public class PluginList {
 	
 	
 	public static Plugin_Base getPluginByName (String name) {
+		if (pluginList.size() == 0 || name == null) {
+			return null;
+		}
+		
 		for (int i = 0; i < pluginNameList.size(); i++) {
 			if (pluginNameList.get(i).equals(name)) {
 				return pluginList.get(i);
@@ -38,6 +43,9 @@ public class PluginList {
 	}
 	
 	public static boolean trigger (Actions action) {
+		if (pluginList.size() == 0 || action == null) {
+			return false;
+		}
 		switch (action.getAction()) {
 		case 0:
 			for (Plugin_Base plugin : pluginList) {
@@ -79,13 +87,13 @@ public class PluginList {
 			break;
 		}
 		
-		
-		
 		return true;
 	}
 	
-	//Debugging purporses
-	public static void print_all_plugins () {
-		pluginNameList.forEach((String name) -> System.out.println("Plugin: " + name));
+	private String returnable = "";
+	@Override
+	public String toString() {
+		pluginNameList.forEach((String name) -> returnable += "Plugin: " + name);
+		return returnable;
 	}
 }
