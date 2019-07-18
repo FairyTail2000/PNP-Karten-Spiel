@@ -73,12 +73,7 @@ public class Monster extends JAMLParser {
 	 */
 	public List<Attacke> getAttacken () {
 		//Workaround because I'm getting a List filled with null objects when I'm returning it right away
-		List<Attacke> atk = new ArrayList<>();
-		for (Attacke a : attacken) {
-			atk.add(a);
-		}
-		
-		return atk;
+		return attacken;
 	}
 	
 	/**

@@ -12,6 +12,7 @@ import javafx.scene.Node;
 import javafx.scene.input.MouseButton;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.GridPane;
+import javafx.scene.layout.HBox;
 import javafx.scene.paint.Color;
 
 public class VBox extends javafx.scene.layout.VBox {
@@ -157,7 +158,7 @@ public class VBox extends javafx.scene.layout.VBox {
 		this.setOnMouseClicked(new EventHandler<MouseEvent>() {
 			@Override
 			public void handle(MouseEvent event) {
-				if (monster != null && monster.am_I_the_Enemy()) {
+				if (monster != null && monster.am_I_the_Enemy() ) {
 					//Well the Enemy should do nothing because its not controlled from this site
 					return;
 				}
@@ -173,13 +174,18 @@ public class VBox extends javafx.scene.layout.VBox {
 							System.err.println("Ääähm wtf? " + attacken.size());
 							System.exit(-1);
 						}
-						Text t = new Text(a.getName(), a.getName(), a);
+						Text t = new Text(a.getName(), a.getName() + " (" + a.wie_oft_kann_diese_attacke_noch_eingesetzt_werden() + ")", a);
 						t.setStroke(Color.WHITE);
 						t.setOnMouseClicked(new HandleAttackClick(a));
 						boxen.add(t);
 					}
+					
 					GridPane p = (GridPane) Main.s.lookup("#Bottom");
-					p.addRow(0, boxen.toArray(new Node[0]));
+					HBox attkBox = new HBox(10, boxen.toArray(new Text[0]));
+					attkBox.setId("AttackenBox");
+					attkBox.setAlignment(Pos.CENTER);
+					p.add(attkBox, 3, 0);
+					
 					return;
 				} else if (event.getButton().compareTo(MouseButton.PRIMARY) == 0) {
 					if (monster == null) {
@@ -196,19 +202,11 @@ public class VBox extends javafx.scene.layout.VBox {
 							setInActive();
 							GridPane p = (GridPane) Main.s.lookup("#Bottom");
 							ObservableList<Node> list = p.getChildren();
-							Task<Void> t = new Task<Void>() {
+							Task<Boolean> t = new Task<Boolean>() {
 
 								@Override
-								protected Void call() throws Exception {
-									List<Attacke> a = monster.getAttacken();
-									for (int i = 0; i < list.size(); i++) {
-										Node n = list.get(i);
-										System.out.println(n.getId());
-										if (n.getId().equals(a.get(i).getName())) {
-											list.remove(n);									
-										}
-									}
-									return null;
+								protected Boolean call() throws Exception {
+									return list.remove(Main.s.lookup("#AttackenBox"));
 								}
 							};
 							t.run();

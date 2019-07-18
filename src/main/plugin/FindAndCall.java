@@ -3,8 +3,6 @@ package main.plugin;
 import java.io.File;
 import java.io.FileFilter;
 import java.io.IOException;
-import java.lang.reflect.Constructor;
-
 import main.ZipClassLoader;
 
 public class FindAndCall {
@@ -36,6 +34,7 @@ public class FindAndCall {
 			for (int i = 0; i < plugins.length; i++) {
 				ZipClassLoader zipClassLoader = new ZipClassLoader(plugins[i].getAbsolutePath());
 				Class<Plugin_Base> mainPluginClass = (Class<Plugin_Base>) zipClassLoader.loadClass("Plugin");
+				@SuppressWarnings("deprecation")
 				Plugin_Base plugin_instance = mainPluginClass.newInstance();
 				PluginList.addPlugin(plugin_instance);
 			}

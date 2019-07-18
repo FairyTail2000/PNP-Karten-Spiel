@@ -70,6 +70,7 @@ public class Text extends javafx.scene.text.Text {
 	public Text () {
 		super();
 		this.setWrappingWidth(0);
+		this.setFill(Color.WHITE);
 	}
 	
 	/**

@@ -18,23 +18,34 @@ public class HandleAttackClick implements EventHandler<MouseEvent>{
 	@Override
 	public void handle(MouseEvent event) {
 		int atk_result = a.doAttack();
-		int hp = Main.actEnemy.getHPasInt() - atk_result;
 		
+		if (Main.actEnemy == null) {
+			System.out.println("Um? Gewonnen?");
+			
+			
+			
+			System.exit(0);
+		}
+		
+		Text t = (Text) Main.s.lookup("#" + this.a.getName());
+		t.setText(a.getName() + " (" + a.wie_oft_kann_diese_attacke_noch_eingesetzt_werden() + ")");
+		int hp = Main.actEnemy.getHPasInt() - atk_result;
 		Main.actEnemy.setHPasInt(Main.actEnemy.getHPasInt() - atk_result);
 		
 		if (hp <= 0) {
+			
 			Monster s;
-			for (int i = 0; i < Main.enemyMonster.length; i++) {
-				s = Main.enemyMonster[i];
+			for (int i = 0; i < SinglePlayer.enemyMonster.length; i++) {
+				s = SinglePlayer.enemyMonster[i];
 				if (s == null) {
 					continue;
 				}
 				if (s.equals(Main.actEnemy)) {
-					Main.enemyMonster[i] = null;
-					Main.enemyMonster = ArrayUtils.filterZeros(Main.enemyMonster, Monster.class);
+					SinglePlayer.enemyMonster[i] = null;
+					SinglePlayer.enemyMonster = ArrayUtils.filterZeros(SinglePlayer.enemyMonster, Monster.class);
 					Main.actEnemy = null;
-					Main.borderpane.setTop(null);
-					Monster new_monster = (Monster) ArrayUtils.randomObject(Main.enemyMonster);
+					SinglePlayer.borderpane.setTop(null);
+					Monster new_monster = (Monster) ArrayUtils.randomObject(SinglePlayer.enemyMonster);
 					if (new_monster == null) {
 						Main.game_won = true;
 						return;
@@ -43,8 +54,7 @@ public class HandleAttackClick implements EventHandler<MouseEvent>{
 					VBox new_box = new VBox(new_monster);
 					new_box.setId("EnemyMonster");
 					Main.actEnemy = new_monster;
-					Main.borderpane.setTop(new_box);
-					
+					SinglePlayer.borderpane.setTop(new_box);
 				}
 			}
 		} else {
@@ -56,9 +66,5 @@ public class HandleAttackClick implements EventHandler<MouseEvent>{
 				}
 			}
 		}
-		
-		
-		
 	}
-
 }

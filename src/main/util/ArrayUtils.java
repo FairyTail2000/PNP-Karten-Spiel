@@ -11,13 +11,22 @@ public class ArrayUtils {
 		if (arr == null || containsOnlyNull(arr)) {
 			return null;
 		}
-		int index = 0;
-		T[] new_arr = (T[]) Array.newInstance(clazz, arr.length);
 		
+		//The name is misleading, here it saves how many Items are not null
+		int index = 0;
 		
 		for (T t : arr) {
 			if (t != null) {
-				new_arr[index++] = arr[index];
+				index++;
+			}
+		}
+		
+		T[] new_arr = (T[]) Array.newInstance(clazz, index);
+		
+		int new_arr_index = 0;
+		for (T t : arr) {
+			if (t != null) {
+				new_arr[new_arr_index++] = t;
 			}
 		}
 		
