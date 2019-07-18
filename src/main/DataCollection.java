@@ -13,7 +13,7 @@ import java.util.Enumeration;
 
 /**
  * This Class is intended as a joke
- * 
+ * I mean really
  * @author rafael
  *
  */
