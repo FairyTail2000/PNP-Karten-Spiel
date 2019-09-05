@@ -12,6 +12,7 @@ public class Typ {
 	/**
 	 * Don't use this constructor
 	 */
+	@SuppressWarnings("unused")
 	private Typ () throws UnsupportedOperationException {
 		throw new UnsupportedOperationException("Just a for debug purporses!!!!");
 	}

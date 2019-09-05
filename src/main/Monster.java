@@ -9,11 +9,11 @@ import jamlParser.main.JAMLParser;
 
 public class Monster extends JAMLParser {
 	
-	private boolean active = false, i_am_the_enemy = false;
-	private int live, level;
+	private boolean i_am_the_enemy = false;
+	private int life, level;
 	private List<Attacke> attacken = new ArrayList<Attacke>();
 	private List<Typ> typen = new ArrayList<Typ>();
-	
+	public int standard_life;
 	/**
 	 * Main Contructor
 	 * @param target
@@ -46,7 +46,8 @@ public class Monster extends JAMLParser {
 	 */
 	private void setup () {
 		this.level = Integer.parseInt(this.getValue("Rang_zahl"));
-		this.live = Integer.parseInt(this.getValue("HP"));
+		this.life = Integer.parseInt(this.getValue("HP"));
+		this.standard_life = Integer.parseInt(this.getValue("HP"));
 		String[] att = this.getValue("Attacken").split(",");
 		for (int i = 0; i < att.length; i++) {
 			att[i] = att[i].substring(0, att[i].indexOf("(") - 1).replace(" ", "");
@@ -89,7 +90,7 @@ public class Monster extends JAMLParser {
 	 * @return The current HP of the Monster
 	 */
 	public int getHPasInt () {
-		return this.live;
+		return this.life;
 	}
 	
 	/**
@@ -105,7 +106,7 @@ public class Monster extends JAMLParser {
 	 * @param hp
 	 */
 	public void setHPasInt (int hp) {
-		this.live = hp;
+		this.life = hp;
 		this.getMap().replace("HP", String.valueOf(hp));
 	}
 	
@@ -114,7 +115,7 @@ public class Monster extends JAMLParser {
 	 * @param hp
 	 */
 	public void setHP (String hp) {
-		this.live = Integer.parseInt(hp);
+		this.life = Integer.parseInt(hp);
 		this.getMap().replace("HP", hp);
 	}
 	
@@ -178,5 +179,4 @@ public class Monster extends JAMLParser {
 	public void setI_am_the_enemy(boolean am_i_the_enemy) {
 		this.i_am_the_enemy = am_i_the_enemy;
 	}
-	
 }

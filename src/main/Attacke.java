@@ -12,7 +12,7 @@ public class Attacke {
 	private String name;
 	private String beschreibung;
 	private int count = 10;
-	
+	public static int standart_count = 10;
 	/**
 	 * I override the default Constructor because i don't want empty Objects
 	 * DON'T EVER USE THIS IT WILL THROW MORE NULLPOINTERS THAN YOU CAN IMAGINE
@@ -42,9 +42,15 @@ public class Attacke {
 	
 	/**
 	 * Computes the damage this Attack makes
+	 * Also decrements the attack count
 	 * @return The damage
 	 */
 	public int doAttack () {
+		if (this.suicide_attack) {
+			System.out.println("SUICIDE");
+		}
+		
+		
 		if (this.attack_makes_damage && this.count > 0) {
 			this.count--;
 			return this.würfel.würfeln();
@@ -106,8 +112,13 @@ public class Attacke {
 	 * @return How often this attack could be used
 	 */
 	public int wie_oft_kann_diese_attacke_noch_eingesetzt_werden () {
-		return count;
+		return this.count;
 	}
+	
+	public void set_wie_oft_kann_diese_attacke_noch_eingesetzt_werden (int count) {
+		this.count = count;
+	}
+	
 	
 	/**
 	 * An overriden toString Method, for debugging

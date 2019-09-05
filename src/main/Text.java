@@ -5,7 +5,6 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 
 public class Text extends javafx.scene.text.Text {
-	private boolean active = false;
 	private Attacke att;
 	/**
 	 * Convenience Constructor
@@ -17,6 +16,7 @@ public class Text extends javafx.scene.text.Text {
 		super(placeNewline(text));
 		this.setId(id);
 		this.setWrappingWidth(0);
+		this.setFill(Color.WHITE);
 	}
 	
 	public Text (String id, String text, Attacke this_atk) {

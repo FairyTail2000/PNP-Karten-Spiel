@@ -27,11 +27,10 @@ import main.plugin.PluginList;
 public class Main extends Application {
 	
 	protected static List<Monster> parsers;
-	
+	//
 	public static Window window = null;
 	public static Dimension screenSize;
 	public static Random r = new Random(System.currentTimeMillis());
-	private static Monster active = null;
 	public static boolean isoneMonsteractive = false;
 	public static Scene s;
 	public static Properties p = new Properties();
@@ -48,7 +47,8 @@ public class Main extends Application {
 	public void start(Stage primaryStage) throws Exception {
 		TestCases(true, false);
 		SinglePlayer.setStage(primaryStage);
-		Game.ShowMenu(primaryStage);
+		Game.setStage(primaryStage);
+		Game.ShowMenu();
 		
 	}
 	
@@ -62,7 +62,7 @@ public class Main extends Application {
 			File config = new File("config.properties");
 			try {
 				if (Files.size(config.toPath()) == 0L) {
-					System.err.println("Fuck, Konfigurationsdatei ist leer");
+					System.err.println(ErrorText.config_empty);
 				}
 			} catch (IOException e) {
 				e.printStackTrace();

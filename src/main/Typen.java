@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
+import java.util.NoSuchElementException;
 
 import jamlParser.main.JAMLParser;
 
@@ -21,7 +22,7 @@ public class Typen {
 	 * @param The name of the Typ
 	 * @return The Typ, if found, <code>null</code> if not
 	 */
-	public static Typ getByName (String name) {
+	public static Typ getByName (String name) throws NoSuchElementException {
 		if (name == null) {
 			return null;
 		}
@@ -31,7 +32,7 @@ public class Typen {
 				return t;
 			}
 		}
-		return null;
+		throw new NoSuchElementException(name);
 	}
 	
 	/**

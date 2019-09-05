@@ -17,7 +17,6 @@ public class Properties extends java.util.Properties {
 
 		String key, value;
 	}
-	
 	@Override
 	public synchronized void load(InputStream inStream) throws IOException {
 		super.load(inStream);

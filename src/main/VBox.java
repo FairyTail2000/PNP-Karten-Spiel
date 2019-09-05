@@ -1,6 +1,5 @@
 package main;
 
-import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
@@ -16,7 +15,8 @@ import javafx.scene.layout.HBox;
 import javafx.scene.paint.Color;
 
 public class VBox extends javafx.scene.layout.VBox {
-
+	
+	
 	//To track if this Card is active
 	private boolean active = false;
 	//The reference to the Monster this Card represents
@@ -163,11 +163,14 @@ public class VBox extends javafx.scene.layout.VBox {
 					return;
 				}
 				
-				if (event.getButton().compareTo(MouseButton.SECONDARY) == 0 && active ) {
+				if (event.getButton().compareTo(MouseButton.SECONDARY) == 0 && active && !shows_attacks) {
 					//Active Monster right click Handler
-					//This feels like a hack, but it work, vs the straight forward method, which does not work
+
 					List<Attacke> attacken = monster.getAttacken();
-					List<Text> boxen = new ArrayList<>();
+					
+					HBox attkBox = new HBox(10);
+					attkBox.setId("AttackenBox");
+					attkBox.setAlignment(Pos.CENTER);
 					
 					for (Attacke a : attacken) {
 						if (null == a) {
@@ -177,14 +180,20 @@ public class VBox extends javafx.scene.layout.VBox {
 						Text t = new Text(a.getName(), a.getName() + " (" + a.wie_oft_kann_diese_attacke_noch_eingesetzt_werden() + ")", a);
 						t.setStroke(Color.WHITE);
 						t.setOnMouseClicked(new HandleAttackClick(a));
-						boxen.add(t);
+						attkBox.getChildren().add(t);
 					}
 					
-					GridPane p = (GridPane) Main.s.lookup("#Bottom");
-					HBox attkBox = new HBox(10, boxen.toArray(new Text[0]));
-					attkBox.setId("AttackenBox");
-					attkBox.setAlignment(Pos.CENTER);
-					p.add(attkBox, 3, 0);
+					GridPane p = (GridPane) Main.getLayoutPane().lookup("#Bottom");
+					if (p == null) {
+						System.err.println(ErrorText.fuck);
+					}
+					
+					GridPane two = new GridPane();
+					two.setAlignment(Pos.CENTER);
+					two.addRow(0, attkBox);
+					
+					p.add(two, 3, 0);
+					shows_attacks = true;
 					
 					return;
 				} else if (event.getButton().compareTo(MouseButton.PRIMARY) == 0) {
@@ -196,20 +205,29 @@ public class VBox extends javafx.scene.layout.VBox {
 						setActive();
 						Main.isoneMonsteractive = true;
 					} else {
+						
+						
+						
 						//Another if, because of the very edge case that a plugin messed isoneMonsteractive up
 						if (active) {
 							Main.isoneMonsteractive = false;
 							setInActive();
-							GridPane p = (GridPane) Main.s.lookup("#Bottom");
+							GridPane p = (GridPane) Main.getLayoutPane().lookup("#Bottom");
 							ObservableList<Node> list = p.getChildren();
-							Task<Boolean> t = new Task<Boolean>() {
+							Task<Void> t = new Task<Void>() {
 
 								@Override
-								protected Boolean call() throws Exception {
-									return list.remove(Main.s.lookup("#AttackenBox"));
+								protected Void call() throws Exception {
+									if (shows_attacks) {
+										shows_attacks = false;
+										list.remove(Main.getLayoutPane().lookup("#AttackenBox"));
+									}
+									return null;
+									
 								}
 							};
 							t.run();
+							
 						}
 					}
 				}
@@ -241,7 +259,7 @@ public class VBox extends javafx.scene.layout.VBox {
 			@Override
 			public void handle(MouseEvent event) {
 				//No Monster? Bye
-				if (monster == null || shows_attacks) {
+				if (monster == null) {
 					return;
 				} else {
 					//Remove this damn shit, i hope this doesn't get called after a new Text is already posted, maybe i should delay the posting...
@@ -260,5 +278,8 @@ public class VBox extends javafx.scene.layout.VBox {
 		
 	}
 	
+	public Monster getMonster () {
+		return monster;
+	}
 	
 }

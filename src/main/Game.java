@@ -1,5 +1,7 @@
 package main;
 
+import javafx.animation.RotateTransition;
+import javafx.animation.ScaleTransition;
 import javafx.event.*;
 import javafx.geometry.Pos;
 import javafx.scene.layout.*;
@@ -8,6 +10,7 @@ import javafx.scene.text.*;
 import javafx.scene.*;
 import javafx.scene.input.*;
 import javafx.stage.Stage;
+import javafx.util.Duration;
 import main.plugin.Actions;
 import main.plugin.PluginList;
 
@@ -17,8 +20,10 @@ public class Game {
 
 	private static BorderPane borderpane = new BorderPane();
 	private static Scene s = new Scene(borderpane);
-
-	public static void ShowMenu(Stage stage) {
+	private static Stage stage = null;
+	
+	
+	public static void ShowMenu() {
 		Text[] buttons = ConstructButtons();
 		
 		//Buttons Normal
@@ -35,6 +40,14 @@ public class Game {
 		t.setFont(Font.font(80));
 		t.setFill(Color.AQUA);
 		t.setTextAlignment(TextAlignment.CENTER);
+		
+		ScaleTransition transition = new ScaleTransition(new Duration(1000), t);
+		transition.setAutoReverse(true);
+		transition.setByX(0.1d);
+		transition.setByY(0.1d);
+		transition.setCycleCount(ScaleTransition.INDEFINITE);
+		transition.play();
+		
 		
 		VBox v = new VBox();
 		v.getChildren().add(t);
@@ -111,16 +124,34 @@ public class Game {
 		t.setFont(Font.font(40));
 		t.setStyle("-fx-border-style: solid inside; -fx-border-width: 5; -fx-border-insets: 5;"
 				+ "-fx-border-radius: 5; -fx-border-color: transparent; -fx-border-radius: 10 10 0 0;");
+		RotateTransition r = new RotateTransition(new Duration(3000), t);
+		r.setByAngle(180d);
+		r.setAutoReverse(true);
+		r.setCycleCount(2);
 		t.setOnMouseClicked(new EventHandler<MouseEvent>() {
 
 			@Override
 			public void handle(MouseEvent event) {
-				if (event.getButton().compareTo(MouseButton.PRIMARY) == 0) {
-					System.exit(0);
-				}
+				System.exit(0);
+				
+			}});
+		
+		t.setOnMouseEntered(new EventHandler<MouseEvent>() {
+
+			@Override
+			public void handle(MouseEvent event) {
+					r.play();
+			}
+		});
+		t.setOnMouseExited(new EventHandler<MouseEvent>() {
+
+			@Override
+			public void handle(MouseEvent event) {
+					r.stop();
 				
 			}
 		});
+		
 		text_arr[3] = t;
 
 		return text_arr;
@@ -130,6 +161,12 @@ public class Game {
 		return state;
 	}
 
+	protected static void setStage (Stage s) {
+		stage = s;
+	}
+	
+	
+	
 	public static void setState(GameState State) {
 		state = State;
 	}
